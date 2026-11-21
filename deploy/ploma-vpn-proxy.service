@@ -1,0 +1,15 @@
+[Unit]
+Description=VPN-bound CONNECT proxy for Luna API requests
+Requires=ploma-awg.service
+After=ploma-awg.service
+
+[Service]
+Type=simple
+NetworkNamespacePath=/run/netns/ploma-egress
+BindReadOnlyPaths=/etc/netns/ploma-egress/resolv.conf:/etc/resolv.conf
+ExecStart=/usr/bin/tinyproxy -d -c /etc/tinyproxy/ploma.conf
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

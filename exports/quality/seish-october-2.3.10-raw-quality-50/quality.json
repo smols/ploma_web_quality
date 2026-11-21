@@ -1,0 +1,1520 @@
+{
+  "schemaVersion": 1,
+  "evaluationType": "quality",
+  "datasetId": "seish-october-export-2026-11-12",
+  "version": "2.3.10",
+  "runId": "2026-11-16-raw-story-classification",
+  "systemName": "gpt-6-luna",
+  "stories": [
+    {
+      "storyId": "llm_e27b4f197a65ef6284b3b88568ddba7a",
+      "title": "East Coast Project Phase 4 Launched at Île Aurore (Seychelles)",
+      "description": "On 9 October 2026, the Seychelles president (Patrick Herminie) launched East Coast Project Phase 4 at Île Aurore (Seychelles), Mahé (Seychelles). The government plan covers approximately 55 hectares of reclaimed land at Île Aurore and Providence (Seychelles), with more than 1,800 homes and other developments envisioned; these are proposed benefits, not completed results.",
+      "category": "Infrastructure",
+      "publications": [
+        {
+          "publicationId": "cmvzfn0bv133f01mdzu6sn0xv",
+          "rawId": 43996,
+          "title": "",
+          "text": "HERM­INIE LAUNCHES EAST COAST MEGA-PROJECT: DEVELOPMENT AMBITION MEETS POLITICAL OPPORTUNITY FOR UNITED SEYCHELLES\n\nBy Seychelles Pulse News | 12 October 2026\n\nÎLE AURORE, MAHÉ President Dr Patrick Herminie has officially launched the East Coast Project Phase 4 (ECP4), marking a major milestone in Seychelles’ long-running land reclamation programme and placing housing, economic development and the country’s limited land resources firmly on the national agenda.\n\nThe launch ceremony, held at Île Aurore on 9 October, brought together senior government officials, Vice-President Sébastien Pillay, representatives of Belgian dredging company Jan De Nul and other invited guests. The project will create new land at Île Aurore and Providence, opening opportunities for residential, industrial, tourism and infrastructure development.\n\nA PROJECT WITH NATIONAL CONSEQUENCES\n\nThe proposed reclamation covers approximately 55 hectares according to the State House announcement, with other reports giving a slightly higher estimate. Government plans envisage more than 1,800 houses, alongside schools, sports facilities, industrial areas and other developments. These are future development ambitions, not completed achievements.\n\nFor a country where mountainous terrain and limited coastal land constrain housing and business expansion, the project addresses a significant development challenge. Its ultimate value, however, will depend on whether the newly created land translates into affordable housing, productive investment, employment and infrastructure that Seychellois people can access.\n\nPresident Herminie presented the initiative as an investment in future generations, emphasising the need to balance development with environmental responsibility. \n\nTHE POLITICAL SIGNIFICANCE FOR UNITED SEYCHELLES\n\nBeyond its engineering and economic dimensions, the launch carries political significance for President Herminie and the United Seychelles (US) party. Major infrastructure projects can become defining features of an administration’s public identity, particularly when they address issues that directly affect households and businesses.\n\n1. Demonstrating a governing agenda\n\nThe project gives the administration a visible, long-term development initiative to communicate to the public. Housing shortages, access to land and the cost of development are concerns with direct consequences for families. By placing these issues at the centre of a national project, Herminie can demonstrate that his government has identified tangible development priorities.\n\nFor United Seychelles, this creates an opportunity to explain its governing programme through a concrete infrastructure initiative rather than relying solely on political speeches or party messaging.\n\n1. Connecting national development with household aspirations\n\nThe promise of homes, schools, roads and business opportunities has considerable public relevance. If the project ultimately delivers these benefits fairly and efficiently, the administration will have a measurable basis on which to demonstrate progress.\n\nFor the party, the political opportunity lies in connecting national investment to improvements in everyday life. But the distinction between a promise and a delivered benefit will remain crucial.\n\n1. Building a long-term development narrative\n\nLand reclamation is not new to Seychelles. Earlier phases of the East Coast Project helped create areas subsequently used for housing, industry and essential infrastructure. ECP4 therefore builds on a development programme that predates the current administration.\n\nHerminie’s political challenge and opportunity is to show how the fourth phase will respond to today’s needs and what additional value it will deliver. United Seychelles can highlight the launch as part of the government’s development agenda while recognising the historical foundations of the wider programme.\n\n1. Engaging young people and future homeowners\n\nThe project has particular relevance for younger Seychellois who aspire to own homes, establish businesses and raise families. The President explicitly framed the initiative around the needs of future generations.\n\nThis provides the government with an opportunity to explain how land availability, housing policy, skills development and employment are connected. For United Seychelles, the strongest evidence of progress would be accessible opportunities for young people, rather than the scale of the ceremony itself.\n\n1. Attracting investment and supporting economic diversification\n\nThe government has identified industrial land, marina facilities, tourism and residential development as potential uses for the reclaimed areas. Properly planned investment could expand economic activity and create employment opportunities.\n\nPolitically, this allows the administration to present infrastructure development as part of a wider economic strategy. The benefits will depend on investment actually materialising, jobs reaching Seychellois workers, and public interests being protected in the allocation and development of land.\n\nTHE ACCOUNTABILITY TEST: PROMISES MUST BECOME RESULTS\n\nDespite the project’s potential, its launch should not be confused with its completion. The public will ultimately need clear answers on project costs, financing, implementation schedules, environmental safeguards and the criteria governing the allocation of reclaimed land.\n\nQuestions about who benefits from future residential and commercial developments will be especially important. If public land creates substantial private investment opportunities, the government will need to demonstrate that the wider Seychellois population also receives a fair share of the economic and social benefits.\n\nEnvironmental monitoring will be equally significant. Reclamation can create new development space, but coastal ecosystems and marine resources must be protected through effective safeguards and transparent oversight.\n\nThese are not merely technical matters. They will shape public confidence in the administration and influence how the project is judged over time.\n\nCONCLUSION: A POLITICAL OPPORTUNITY, NOT A GUARANTEED VICTORY\n\nPresident Herminie’s launch of East Coast Project Phase 4 gives his administration and United Seychelles a significant national development initiative around which to communicate their priorities. Housing, land availability, employment and investment are issues that reach beyond party politics and affect the country’s long-term future.\n\nThe political advantage for United Seychelles will depend on what happens after the launch: whether construction proceeds as planned, whether costs are managed responsibly, whether land is allocated transparently and whether the promised opportunities reach ordinary Seychellois.\n\nFor now, the project represents an important step in the government’s development programme. Its lasting political and national significance will be determined not by the ceremony, but by the results delivered to the people of Seychelles.",
+          "publishedAt": "2026-10-13T08:49:39",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1611841786541427&id=61591277926182",
+          "category": "Infrastructure"
+        },
+        {
+          "publicationId": "cmvzg5dlx134i01mdo08r6zsi",
+          "rawId": 45837,
+          "title": "",
+          "text": "President Herminie Launches New Land Reclamation Project to Shape Seychelles' Future\n\nThe promise of new homes, schools, businesses and opportunities for future generations took a significant step forward today as President Dr Patrick Herminie officially launched the East Coast Project Phase 4 (ECP4) at Ile Aurore, marking another chapter in Seychelles' land reclamation programme.\n\nUpon arrival, the President received a warm welcome from students before joining dignitaries for the official ceremony.",
+          "publishedAt": "2026-10-09T16:45:04",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122138218233357632&id=61590728966156",
+          "category": "Infrastructure"
+        },
+        {
+          "publicationId": "cmvzrfhsf158p01md26rwldgt",
+          "rawId": 45929,
+          "title": "",
+          "text": "President Dr Patrick Herminie today gave the coup d’envoi to officially launch reclamation works at Île Aurore, as the dredger performed the ceremonial scoop.\nAddressing those gathered were Secretary of State for Lands, Housing and Infrastructure, Mr Joseph François; Mr Filipe Morobe, Area Director of Jan De Nul; and Mr Lablache, consultant for the project.\nAcross both phases, the project is expected to create more than 570,000 square metres of new land for housing, infrastructure and economic development. The wider plans for Île Aurore include 1,008 affordable housing units. \nThe ceremony carried a sense of nostalgia, with patriotic songs and a journey through Seychelles’ reclamation history, reflecting on how these projects have helped shape the country we know today.\n\nHeld as part of Habitat Week under the theme “Adequate Housing for All”, today’s ceremony marks another step towards creating space for future homes and communities.",
+          "publishedAt": "2026-10-09T13:58:05",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122128825713265046&id=61587951397349",
+          "category": "Infrastructure"
+        },
+        {
+          "publicationId": "cmw02d7kx1fw201mds4i4hcwt",
+          "rawId": 45860,
+          "title": "",
+          "text": "President Herminie Launches New Land Reclamation Project to Shape Seychelles' Future\n\nThe promise of new homes, schools, businesses and opportunities for future generations took a significant step forward today as President Dr Patrick Herminie officially launched the East Coast Project Phase 4 (ECP4) at Ile Aurore, marking another chapter in Seychelles' land reclamation programme.\n\nUpon arrival, the President received a warm welcome from students before joining dignitaries for the official ceremony.",
+          "publishedAt": "2026-10-09T16:16:16",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1581028937390471&id=100064501400043",
+          "category": "Infrastructure"
+        },
+        {
+          "publicationId": "cmw0322t61fzq01md8p94i9ie",
+          "rawId": 45920,
+          "title": "",
+          "text": "From the sea to new possibilities! \n\nA new chapter in Seychelles' development unfolds as President Dr Patrick Herminie officially launches the East Coast Project Phase 4 at Ile Aurore.\n\nNew land, new opportunities and a vision for generations to come.\n\nWatch how this new chapter began!",
+          "publishedAt": "2026-10-09T14:12:41",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/reel/28755315644132546/",
+          "category": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_f5bdf4bca0091bf81bc84b32df68b2a5",
+      "title": "Government Officers Accused of Sabotaging Herminie Administration",
+      "description": "A Facebook post dated 18 October 2026 alleges that Wavel is using supporters in Seychelles government departments to sabotage President Patrick Herminie’s administration. It claims that most field officers are involved and that 90% of personnel in Planning, MLH and Lands support Wavel and Billy Ramgasammy; the post gives no specific incident or evidence for these allegations.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmw02dbu71fw601mdhi4j3qct",
+          "rawId": 40869,
+          "title": "",
+          "text": "Patrick Herminie met ou lipye ater Dan sa pei sesel koman prezidan.wavel pe servi son bann azan dan tou department Pou sabotage ou gouvernman Dan Tou department.\nFirstly airseychelles .. planing authority.... SBC.....lapolis...mlh.. department lands ek plizyer lezot ankor..\nPli gro failure Pou vin kot planing mlh& lands SA department I 90% support wavel and billy ramgasammy...\nMazorite sa bann officers ki pe fer teren pe sabotaz ou gouvernman....\nBokou liser fes wavel ek billy laba..\nSilvouple koman ankor boner met zot lipye ater Avan o tro tar",
+          "publishedAt": "2026-10-18T08:05:27",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1616368366088769&id=1671016557792151",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_647555e68aabd1fd1478fae623c55157",
+      "title": "Sivasankaran's Seychelles Immunity Plea Rejected",
+      "description": "A Twitter post published on 28 October 2026 recaps the IDBI Bank loan-fraud case against Aircel founder C. Sivasankaran, alleging that CBI and ED charged him over losses exceeding ₹600 crore involving loans to Win Wind Oy and Axcel Sunshine Limited. It says the Supreme Court rejected his claim to diplomatic immunity as an “Ambassador-at-Large” for the Republic of Seychelles in December 2021, allowing prosecution to continue; it also says the Madras High Court refused to quash a look-out circular and the ED attached properties worth ₹224.60 crore.",
+      "category": "Safety & Security",
+      "publications": [
+        {
+          "publicationId": "cmwd6ktlg365m01rwzc0c5v6k",
+          "rawId": 32250,
+          "title": "",
+          "text": "He is no 1 fraud.\n\nC. Sivasankaran (Aircel Founder) IDBI Bank Loan Fraud Case\n\n• Accused: Aircel founder C. Sivasankaran (Siva Group).\n• Core Allegation: The CBI and ED charged Sivasankaran over a ₹600-plus crore loss to IDBI Bank involving illicit loans given to Win Wind Oy and Axcel Sunshine Limited.\n• Supreme Court & Legal Status:\n• In December 2021, the Supreme Court rejected Sivasankaran’s plea claiming diplomatic immunity as an \"Ambassador-at-Large\" for the Republic of Seychelles, allowing criminal and money-laundering prosecution to continue.\n• The Madras High Court refused to quash a look-out circular (LOC) blocking his foreign travel, and the ED attached properties worth ₹224.60 crore under the PMLA.",
+          "publishedAt": "2026-10-28T19:56:16",
+          "source": "Twitter",
+          "url": "https://x.com/ShyamPwh/status/2115487825315737966",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_099077ba48c69d2907bbda52d9acac6a",
+      "title": "Tropical Depression Forecast to Bring Heavy Rain to Seychelles",
+      "description": "The post reports that a system over Seychelles intensified into a tropical depression overnight and was located at 4.9°S, 53.9°E at 10:00 on 20 October 2026. An orange alert for heavy rain was in force for Mahé (Seychelles), Praslin (Seychelles), La Digue (Seychelles), Silhouette (Seychelles), Bird Island (Seychelles), Denis Island (Seychelles), the Amirantes (Seychelles), Alphonse (Seychelles) and Coëtivy (Seychelles); further intensification and naming as Agueda that afternoon were expected, with favorable conditions forecast for about 48 hours before gradual weakening.",
+      "category": "Weather & Natural Events",
+      "publications": [
+        {
+          "publicationId": "cmvzgbtn9135601mdud06jh23",
+          "rawId": 39337,
+          "title": "",
+          "text": "[ 🌀DÉPRESSION TROPICALE 01🌀 ]\n\nBonjour,\n\n🌀Le système évoluant au-dessus des Seychelles s’est intensifié en une dépression tropicale depuis la nuit dernière.⬆️\n\n👉À 10 h ce matin, elle était localisée par par les points 4,9° Sud / 53,9° Est. La pression minimale est estimée à 1003 hPa, avec des rafales dépassant 75 km/h près du centre🌬. Le système se déplace vers l’ouest-sud-ouest à 9 km/h.🌊\n\n🧏‍♂️Son intensification se poursuit, et un baptême sous le nom d’**AGUEDA** est prévue cet après-midi.✅️\n\n🌀La dépression bénéficie encore d’environ 48 heures de conditions favorables à son évolution, après quoi elle devrait progressivement s’affaiblir🌫.\n\n☝️Pendant cette période, elle devrait continuer à apporter d’importantes précipitations🌧 sur les îles des Seychelles, où une⚠️ alerte orange pour fortes pluies est en vigueur pour ⚠️Mahé, Praslin, La Digue, Silhouette, les îles Bird et Denis, les Amirantes, Alphonse et Coëtivy.🌩\n\n☝️Le passage de cyclones🌀 sur les Seychelles est rare, mais possible. Le plus récent fut la 🌀tempête 01 de septembre 2002, qui avait causé d’importants dégâts sur les îles de Mahé et de Praslin❗️.🌧\n\nSource : METEO FRANCE REUNION, SEYCHELLES BROADCASTING COORPERATION, MTOTEC, MCU",
+          "publishedAt": "2026-10-20T10:22:00",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1442591421306268&id=100066662703750",
+          "category": "Weather & Natural Events"
+        },
+        {
+          "publicationId": "cmw6aaivo0x5s01rwmhwxz5o1",
+          "rawId": 40221,
+          "title": "",
+          "text": "[ACTIVITÉ CYCLONIQUE]\nLe 19/10/2026 à 8h30\n\n👉 L'activité convective de la zone perturbée évoluant à proximité des Seychelles semble s'être renforcée au cours de la nuit dernière.\nEn l'absence de données satellites disponibles à cette heure, difficile d'affirmer, en revanche, que la cyclogenèse ait réellement démarré.\n\n👉 Les modélisations continuent d'envisager un stade de dépression tropicale dans les prochaines 48h.\nLe risque de formation de tempête à 72h est lui aussi en hausse sensible. AGUEDA n'est peut être pas si loin au final...\n\n👉 Comme attendu, ce phénomène en gestation engendre des conditions perturbées sur les \"îles intérieures\" (Mahé, Praslin, La Digue...) des Seychelles.\nAinsi, depuis minuit, ces îles enregistrent des cumuls de pluie allant de 50 à 80 mm...et près de 300 mm sur la semaine. Localement, probablement sous orage, des rafales de vent frisant les 50 à 60 km/h sont également observés.\n\nAffaire à suivre pour le fun, dans la mesure où nous ne serons pas concernés.",
+          "publishedAt": "2026-10-19T08:28:38",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1577651167722380&id=100064325364116",
+          "category": "Weather & Natural Events"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_78c716148a9e77f6e7b0e7ae1fd5d188",
+      "title": "Complaint Targets Seychelles Meteorological Authority Leadership",
+      "description": "A Facebook post dated 1 November 2026 alleges that the Seychelles Meteorological Authority no longer belongs to the people of Seychelles and criticizes its leadership as dictatorial. The post asks the government to review the situation and claims that cleaners have no rights at the authority’s office; these claims are not independently established.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzws2ro168q01mdwx6vwzi1",
+          "rawId": 26563,
+          "title": "",
+          "text": "For sure we will want to enjoy the ownership of our country, Seychelles Meteorological Authority doesn't anymore belong  to Seychelles people, we ask our government in place to check and do the necessary, we are not fools and don't understand nor like this actual leadership which we believe it's dictatorship..please take time and research, it cannot be that stupid people doesn't see such arrogance in their livelihood as qualified people, it remains as from LDS that a cleaner have no rights . it's happening in meteo Seychelles office and for our government as responsible entity..",
+          "publishedAt": "2026-11-01T19:41:43",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1629770874748518&id=1115652474575819",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_cd24499d1ef5b7fbb6c846b1f7f2e9e1",
+      "title": "Sarah Lloyd Returns as Central Bank Governor",
+      "description": "In a publication dated 29 October 2026, incoming Central Bank of Seychelles governor Sarah Lloyd said her central- and commercial-banking experience would inform her approach to price and financial stability. The statement followed a courtesy call on the Seychelles president (Patrick Herminie) on 28 October 2026; the publication does not give a date for her return to the role.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzemrlw115h01mdgcx4saug",
+          "rawId": 31541,
+          "title": "",
+          "text": "President Herminie highlights the importance of monetary stability as Sarah Lloyd prepares to lead the Central Bank of Seychelles from November 1. Strong financial leadership is key to building economic confidence. #Seychelles #Economy https://t.co/1EFOhiKwCv",
+          "publishedAt": "2026-10-29T11:02:46",
+          "source": "Twitter",
+          "url": "https://x.com/VeroniqueRb2/status/2115715954533618082",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmvzs49gq15ay01md19dc8xyw",
+          "rawId": 32600,
+          "title": "",
+          "text": "President Herminie Emphasises Monetary Stability as New Central Bank Governor Prepares to Take Office\n\nMaintaining monetary and financial stability remains a key priority for Seychelles, President Dr Patrick Herminie emphasised during a meeting with the newly appointed Governor of the Central Bank of Seychelles (CBS), Ms Sarah Lloyd, at State House on Wednesday afternoon.\n\nThe President formally presented Ms Lloyd with her letter of appointment ahead of her assuming office on 1 November 2026.\n\nDuring their discussions, the importance of maintaining a stable financial environment and the Central Bank's role in safeguarding the country's economy were highlighted. The meeting also placed particular emphasis on the institution's responsibility to preserve price stability and sustain confidence in the financial system.\n\nPresident Herminie underscored the importance of continuity in the Central Bank's work as Ms Lloyd prepares to assume leadership of the institution. He wished her success in carrying out her responsibilities.\n\nRead further:https://statehouse.gov.sc/news/7316/president-herminie-emphasises-monetary-stability-as-new-central-bank-governor-prepares-to-take-office",
+          "publishedAt": "2026-10-28T14:25:49",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1600090485484316&id=100064501400043",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmvzs9zio15c201mdi7ev0rwr",
+          "rawId": 31187,
+          "title": "",
+          "text": "Sarah Lloyd puts stability and independence at centre of Central Bank return\n\nby K. Doku \n\nSarah Lloyd is returning to the Central Bank of Seychelles (CBS) with experience in both central and commercial banking. Following a courtesy call on President Patrick Herminie yesterday, the incoming governor said that perspective would inform her approach to a job whose central responsibilities remain price and financial stability.\n\nFor full context and detailed reporting, read the complete article in today’s edition. Subscribe by calling +248 4290999 or email us at sales@today.sc",
+          "publishedAt": "2026-10-29T15:58:06",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1755548163245088&id=100063697624301",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmvzwp5mq166c01mdw7z58n2v",
+          "rawId": 32247,
+          "title": "",
+          "text": "🔴 𝐄𝐤𝐬𝐭𝐫𝐞: Sarah Lloyd ki nouvo Gouverner Labank santral in ozordi rann en vizit kourtwazi, Prezidan Larepiblik, Dr Patrick Herminie.\n\nI ti ganny apwente dan sa rol le premye Oktob, e se le premye Novanm ki son lapwentman pou pran lefe, pour en term 6 an.",
+          "publishedAt": "2026-10-28T19:57:42",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1723079476493648&id=100063748354217",
+          "category": "Infrastructure"
+        },
+        {
+          "publicationId": "cmvzy34or176r01md0u9rwxsw",
+          "rawId": 49741,
+          "title": "Sarah Lloyd: A New Chapter at the Central Bank of Seychelles",
+          "text": "Sarah Lloyd: A New Chapter at the Central Bank of Seychelles\n<p>Leadership Sarah Lloyd: A New Chapter at the Central Bank of Seychelles Sarah Lloyd has been appointed Governor of the Central Bank of Seychelles (CBS), marking a return to the...</p>\n<p><a class=\"more-link\" href=\"https://cosmocreole.com/sarah-lloyd-a-new-chapter-at-the-central-bank-of-seychelles/\" rel=\"nofollow\">Read More</a></p>\n<p>The post <a href=\"https://cosmocreole.com/sarah-lloyd-a-new-chapter-at-the-central-bank-of-seychelles/\">Sarah Lloyd: A New Chapter at the Central Bank of Seychelles</a> appeared first on <a href=\"https://cosmocreole.com\">COSMOCREOLE</a>.</p>",
+          "publishedAt": "2026-10-01T09:12:42",
+          "source": "RSS",
+          "url": "https://cosmocreole.com/sarah-lloyd-a-new-chapter-at-the-central-bank-of-seychelles/",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmvzy432n177e01md97rq4o2x",
+          "rawId": 33148,
+          "title": "President Herminie Emphasises Monetary Stability as New Central Bank Governor Prepares to Take Office",
+          "text": "President Herminie Emphasises Monetary Stability as New Central Bank Governor Prepares to Take Office\n<img alt=\"President Herminie Emphasises Monetary Stability as New Central Bank Governor Prepares to Take Office\" src=\"https://statehouse.gov.sc/uploads/news/2026/7316_xOyDwyxnx.jpg\" /><br /><br /><p>Maintaining monetary and financial stability remains a key priority for Seychelles, President Dr Patrick Herminie emphasised during a meeting with the newly appointed Governor of the Central Bank of Seychelles (CBS), Ms Sarah Lloyd, at State House on Wednesday afternoon.</p>\n<p>The President formally presented Ms Lloyd with her letter of appointment ahead of her assuming office on 1 November 2026.</p>\n<p>During their discussions, the importance of maintaining a stable financial environment and the Central Bank's role in safeguarding the country's economy were highlighted. The meeting also placed particular emphasis on the institution's responsibility to preserve price stability and sustain confidence in the financial system.</p>\n<p>Having already undertaken a preliminary visit and held discussions with the Central Bank team, Ms Lloyd expressed confidence in the institution's capabilities and looked forward to serving the country in her new role.</p>\n<p>President Herminie underscored the importance of continuity in the Central Bank's work as Ms Lloyd prepares to assume leadership of the institution. He wished her success in carrying out her responsibilities.</p>\n<p>Speaking to the press following the meeting, Ms Lloyd outlined her priorities, placing particular emphasis on further developing the financial services sector while preserving financial and price stability.</p>\n<p>“Alongside the already established priorities of the institution, my focus will be on further deepening the financial services sector, while ensuring that we preserve the stability of our financial system and maintain price stability,” she said.</p>\n<p>Addressing questions about the independence of the Central Bank, particularly in situations where its policy direction may differ from that of government, Ms Lloyd stressed the importance of protecting the institution's autonomy and maintaining its longstanding reputation for integrity.</p>\n<p>She acknowledged that differences in policy direction could arise but noted that constructive engagement and mutual understanding would be essential in navigating such situations.</p>\n<p>“The Central Bank of Seychelles has a history and legacy of being a strong institution that has always delivered with integrity and independence. Continuing to maintain that reputation will be paramount in fulfilling my duties,” she stated.</p>\n<p>Ms Lloyd further explained that stakeholder engagement would play an important role in fostering a shared understanding of policy decisions, even where differences exist between the Central Bank and government.</p>\n<p>She noted that greater appreciation of the reasons behind differing policy positions could help both institutions identify common ground, particularly as they ultimately work towards the same broader economic objectives.</p>\n<p>However, she maintained that the independence of the Central Bank as an institution must remain protected.</p>\n<p>Turning to her immediate priorities upon assuming office, Ms Lloyd said her first task would be to engage with staff across the institution to better understand their needs and how they could continue working together to deliver the Central Bank's services effectively.</p>\n<p>“I think, as with any new role, my first priority will be to engage with all the staff and take an introductory approach to understanding their needs, ensuring that I know exactly what they require going forward and how we can continue working together,” she explained.</p>\n<p>Reflecting on her decision to accept the appointment, Ms Lloyd described her return to the Central Bank as a particularly meaningful moment in her professional career.</p>\n<p>Having begun her career at the institution in 2007, she spent approximately 12 years serving in various capacities before moving into commercial banking.</p>\n<p>“Although I subsequently moved into commercial banking, accepting this role really felt like coming home,” she said, describing the Central Bank as the institution where she began a career of which she remains proud.</p>\n<p>Ms Lloyd brings extensive experience in banking, financial risk management and economic research. Prior to her appointment, she served as Chief Risk Officer of Absa Bank Zambia PLC, a position she had held since March 2022. She previously occupied the same position at Absa Bank (Seychelles) Limited between February 2019 and March 2022.</p>\n<p>Her career at the Central Bank began as a Research Assistant before she progressed to Economist and later Senior Financial Stability Analyst. During her tenure, she established and managed the Financial Stability Unit and represented Seychelles at regional and international forums.</p>\n<p>She holds a Master of Science in Financial Economics from City University London and a Bachelor of Science in Banking and International Finance from Cass Business School.</p>\n<p>Her appointment comes as the Central Bank continues its mandate of safeguarding monetary and financial stability, with Ms Lloyd identifying institutional independence and further development of the financial services sector among her priorities.</p>\n<p> </p>",
+          "publishedAt": "2026-10-28T00:00:00",
+          "source": "RSS",
+          "url": "https://statehouse.gov.sc/news/7316/president-herminie-emphasises-monetary-stability-as-new-central-bank-governor-prepares-to-take-office",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmw782w8a18cy01rwhljbxou9",
+          "rawId": 32656,
+          "title": "",
+          "text": "Safeguarding the independence of the Central Bank of Seychelles (CBS) will remain a central priority under its new leadership, Ms Sarah Lloyd emphasised following her meeting with President Dr Patrick Herminie at State House on Wednesday afternoon.\n\nThe President formally presented Ms Lloyd with her letter of appointment, highlighting the important role of the Central Bank in safeguarding the country's economy and maintaining public confidence in the financial system.\n\nMs Lloyd, who brings extensive experience in banking and financial risk management, will officially assume office on 1 November 2026.\n\nThe President wished her success as she prepares to take on her new responsibilities.",
+          "publishedAt": "2026-10-28T13:27:37",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/reel/1074781392221810/",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_ac2e24db77446a8bbac039da3194bdaa",
+      "title": "Compassion Question Raised Over Ramkalawan's Leadership",
+      "description": "A Facebook post published on 25 October 2026 addressed former president Wavel Ramkalawan and questioned whether Seychelles would be safe under his leadership again. Referring to reactions celebrating President Herminie (Patrick Herminie)'s hospitalisation and wishing him death, the author raised concern about compassion in political leadership; the post does not say Ramkalawan endorsed those reactions.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvztxcfc15kf01mdcxhft9kb",
+          "rawId": 35480,
+          "title": "",
+          "text": "🇸🇨 SEYCHELLES, THINK! A MESSAGE TO THE FORMER PRESIDENT.\nWith all due respect, Mr Former President Wavel Ramkalawan, Seychelles had a choice, and you had your chance for the past five years. The people made their decision, and that choice deserves to be respected.\n\nAs a young Seychelloise woman in my 30s, I know our current government is not perfect. When they are wrong, we must speak up and hold them accountable. But beyond politics, where is our humanity?\n\nWhen President Herminie was hospitalised, the reactions celebrating his illness and wishing him death deeply disturbed me. Before he is a President, he is a human being, a father, and someone's loved one.\n\nDo we really want a leader who fails to remind supporters that compassion must come before politics? Do we want a nation where political differences make us celebrate another person's suffering?\n\nPerhaps God allows certain situations to happen so we can reflect on the kind of country we truly want.\n\nMy fellow Seychellois, we can disagree politically without losing our humanity. No government is perfect, but leadership must come with compassion, humility, and respect for human life.\n\nMr Former President, you had your chance. Today, my concern is whether Seychelles would be safe in your hands again if compassion is missing from the leadership we witness.\n\nSeychelles, think carefully. What kind of example are we setting for our children?\n\n❤️ Let us choose humanity over hatred, compassion over cruelty, and unity over division.\n\n🇸🇨 God bless Seychelles!\n\n@highlight",
+          "publishedAt": "2026-10-25T13:32:58",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1622897058769233&id=1130793069324583",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_1609b06ef44cf03d3014ec49365f21f0",
+      "title": "Vincent Amelie Accused of Intimidating Meteo Staff",
+      "description": "A Facebook post dated 1 November 2026 alleges that Meteo CEO Vincent Amelie controls what newly hired staff may say and has created a workplace climate where employees fear speaking with colleagues. It calls for Amelie's resignation or removal by Minister Jeremie; these claims are allegations, not established findings.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvztqx7y15jp01mdhbngjpa4",
+          "rawId": 26661,
+          "title": "",
+          "text": "Vincent Amelie fodre resign koman CEO Meteo\nParey monn dir mon pou kontinyen devwal tou forfe Vincent Amelie ziska ki swa i resign ouswa Minis Jeremie i tir li dan son pozisyon. Sa pti zonm ki zot war lo televizyon ek en figir byen innosan i en demon an personn. Eski zot ti konnen ki sakfwa en nouvo staff i ganny anploye zot ganny anmennen dan biro kot vincent, e la i komans brief sa staff eki pou koze, e eki pa pou koze. In menm ariv en nivo kot staff i per pou menm dir bonzour kanmarad, pangar lanperer i war zot pe koz ek tel staff. Pa bliye son de pti toutou i touzour la pou raporte lekel ki koz ek lekel. Vincent Amelie in anmenn en kalite divizyon dan sa meteo kot staff i per pou koz ek kanmarad. Eski sanmenm sa kalite lanvironman travay ki nou pou kontinyen les nou prop seselwa sibir anba lanperer Amelie?",
+          "publishedAt": "2026-11-01T18:48:02",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1629729678085971&id=61582338751813",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmw6a32cu0wig01rw24mvu4tj",
+          "rawId": 27267,
+          "title": "",
+          "text": "Labi dan meteo sesel\nEski gouvernman US pou kontinyen les Vincent Amelie teoriz bann travayer meteo? Eski tou dimoun dan sa ladrwa pou bezwen kite akoz en sel Vincent Amelie. Napa en ranplasman pou li sa boug?",
+          "publishedAt": "2026-11-01T11:50:05",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1629403918118547&id=61582338751813",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_84b0762254f4bde0d28c97f7fcbf42f6",
+      "title": "Pregnancy and Breastfeeding Medicine Safety Advisory",
+      "description": "A Facebook notice tagged #MinistryOfHealthSeychelles, published on 4 November 2026, advises that some medicines may affect the mother or baby during pregnancy or breastfeeding. It recommends using medicines as directed by a health professional and reporting suspected side effects; no specific medicine or adverse event is identified.",
+      "category": "Healthcare",
+      "publications": [
+        {
+          "publicationId": "cmw6an46s0y4m01rwuc62oaam",
+          "rawId": 21565,
+          "title": "",
+          "text": "🤰🏽🤱🏽 Pregnancy and breastfeeding can affect how medicines are used. 💊\n\n👶 Some medicines may affect the mother or baby. Always use medicines as advised by a health professional and report any suspected side effects. ⚠️📢\n\n🛡️ NOTICE IT. REPORT IT. PROTECT SOMEONE.\n\n#MedSafetyWeek#ReportSideEffects#PublicHealthAuthority\n#MinistryOfHealthSeychelles",
+          "publishedAt": "2026-11-04T07:00:25",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1562124292617043&id=100064584617164",
+          "category": "Healthcare"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_14f4b4c87f0fadd4356efdd4768680d0",
+      "title": "Fire Destroys One Home at PMC Emergency Housing",
+      "description": "The Seychelles Fire and Rescue Services Agency reported that a residential fire at the PMC Emergency Housing block in Barbarons (Seychelles) destroyed one unit and partially damaged two adjoining units; no injuries were reported. The report was published on 28 October 2026, but the incident date is not specified; the cause remains undetermined, and the Agency and Seychelles Police have initiated an investigation.",
+      "category": "Safety & Security",
+      "publications": [
+        {
+          "publicationId": "cmvzwplnx166u01md9c9luiu0",
+          "rawId": 32635,
+          "title": "",
+          "text": "Residential Fire Incident at PMC Emergency Housing, Barbarons.🔥🚒 \n\nThe Seychelles Fire and Rescue Services Agency (SFRSA) wish to inform of a residential fire incident that occurred at the PMC Emergency Housing block at Babarons.\n \nAt approximately 08:45 hrs, the Victoria Fire Station received a report of a residential fire outbreak at Babarons. The incident was immediately relayed to the Anse Royale Fire Station for response. \n\nTwo fire tenders from Anse Royale Fire Station, manned by a total of six (6) firefighters, were dispatched to the scene. A backup fire tender from Victoria Fire Station, manned by four (4) firefighters, was subsequently mobilized to provide additional support. Fire crews arrived on scene approximately 20 minutes after the initial call was received. \n\nUpon arrival, firefighters observed that one residential unit within a single storey block of houses was fully engulfed in flames, with the fire posing an immediate threat to two adjacent units located on each side of the affected structure. \n\nFollowing a rapid assessment of the situation, firefighting operations commenced immediately to contain and extinguish the fire while preventing further spread to the neighbouring units. \n\nThe fire was brought under control within approximately 15 minutes of firefighting operations, and complete extinguishment was achieved after approximately 40 minutes of continuous firefighting efforts. \n\nThe affected building is of concrete block construction and covered with corrugated iron sheet roof. As a result of the incident, one residential unit was completely destroyed, while two adjoining units sustained partial fire damage. \n\nFortunately, no injuries were reported in connection with the incident.\n\nThe cause of the fire has not yet been determined. An investigation has been initiated by the Seychelles Fire and Rescue Services Agency, in collaboration with the Seychelles Police Force, to establish the origin and circumstances surrounding the fire. \n\nThe Seychelles Fire and Rescue Services Agency would like to remind the public of the importance of maintaining and practising good fire safety and housekeeping, and remaining vigilant to potential fire hazards within the home. \n\nTerence Arnephy(Mr.) \nDivisional Officer \nPublic Relations Officer",
+          "publishedAt": "2026-10-28T13:48:43",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1754157720050799&id=100063697624301",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_529cdc534aef087819999af50963bba1",
+      "title": "Call for Seychelles Election and Patrick's Removal in 2030",
+      "description": "An unattributed Facebook comment published on 11 October 2026 calls for an election in Seychelles on 12 October 2026 and says Seychellois will remove Patrick in 2030. It gives no reason for the demand and does not clarify Patrick’s identity or role.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzu561y15l501md29sq11qm",
+          "rawId": 44876,
+          "title": "",
+          "text": "Fer eleksyon demen, Seselwa i bour ou deor san pitye Patrick. 2030 kreol pe al koriz sa fot.\n@highlight",
+          "publishedAt": "2026-10-11T15:38:42",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=28994403760178895&id=100001079694738",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_87a63fb8dc5865c53b8b88f0bb74fa9d",
+      "title": "Mercenary Coup Attempt and Gun Battle at Mahé Airport (Seychelles)",
+      "description": "The documentary examines the 1981 Seychelles coup attempt associated with Mike Hoare’s “Froth-Blowers,” including a gun battle at Mahé airport (Seychelles) and material from South Africa’s Truth and Reconciliation Commission. It frames foreign knowledge and involvement as a historical question and distinguishes official findings from allegations.",
+      "category": "Safety & Security",
+      "publications": [
+        {
+          "publicationId": "cmvzuy2hx15nt01mduz7ykqh9",
+          "rawId": 29533,
+          "title": "",
+          "text": "THEY LANDED IN SEYCHELLES AS “TOURISTS.” THEIR BAGS WERE FILLED WITH WEAPONS.\n\nOn November 25, 1981, a group of mercenaries led by “Mad Mike” Hoare arrived in Seychelles with a plan to overthrow President France-Albert René.\n\nThey posed as tourists, but hidden inside their luggage were rifles and ammunition.\n\nThe operation began to fall apart at the airport when a weapon was discovered by customs.\n\nGunfire followed.\n\nThe mercenaries were forced into a confrontation with Seychellois forces before many of them escaped by hijacking an Air India aircraft and flying to South Africa.\n\nThe coup failed before it could achieve its objective.\n\nOne customs inspection helped unravel an entire attempt to take over a country.\n\n#TranzieHQ #Seychelles #AfricanHistory #History #Africa CoupAttempt",
+          "publishedAt": "2026-10-30T20:19:02",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/reel/1874239103745924/",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmwbgi6vd2wz601rwzhf6841m",
+          "rawId": 3833,
+          "title": "",
+          "text": "Hilarious anecdote of a coup attempt in Seychelles by inebriated Rhodie veterans 😂 (From *Three Sips of Gin by Tim Bax) https://t.co/CYK4B0TqIm",
+          "publishedAt": "2026-11-10T23:15:16",
+          "source": "Twitter",
+          "url": "https://x.com/globalrhodesia/status/2120248950322053611",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmwctuhqk35rw01rw2u5zdjtm",
+          "rawId": 69,
+          "title": "Who Knew First? Four Mercenary Coups Foreign Governments Saw Coming",
+          "text": "In March 2004, a Boeing 727 carrying 64 men landed in Harare to collect weapons for a coup in Equatorial Guinea. Five weeks earlier, the British government had received an intelligence report about a possible coup there. It never told Equatorial Guinea.\n\nIt was not the first time. Over nearly thirty years, small private armies tried to seize four African countries, and each time it later emerged that a foreign government knew more than it said at the time. This documentary follows the evidence case by case to ask a precise question: who knew first, and what did they do with what they knew?\n\nTHE FOUR CASES\n• Benin, 1977: a dawn attack on Cotonou, and a case of operation papers left on the runway, examined by a UN Security Council mission.\n• Seychelles, 1981: Mike Hoare's \"Froth-Blowers\", a gun battle at Mahé airport, and South Africa's Truth and Reconciliation Commission.\n• Comoros, 1995: Bob Denard's last coup, France's Operation Azalée, and a 2006 Paris judgment about what French intelligence knew.\n• Equatorial Guinea, 2004: Simon Mann, the \"Wonga Coup\", and a British minister's written statement to Parliament.\n\nWe separate what was admitted on the record, what official bodies found, and what is still only alleged. Knowing about a coup is not the same as ordering one, and the four cases show very different degrees of involvement.\n\nThis channel investigates foreign involvement in modern African history through archival records, testimony, official findings and carefully attributed allegations. If evidence-led history is your kind of documentary, consider subscribing.\n\nCHAPTERS\n00:00 Five weeks' warning: the plane in Harare\n01:47 Four coups, four kinds of evidence\n02:43 Benin 1977: the dawn landing\n04:21 The case marked \"Colonel Maurin\"\n07:14 Benin: who knew?\n08:32 Seychelles 1981: the Froth-Blowers\n11:31 Operation Angela\n13:27 Comoros 1995: Denard's last coup\n15:19 \"Neither yes nor no\": the Paris verdict\n17:56 Equatorial Guinea 2004: the Wonga Coup\n21:44 What London knew\n24:36 Four cases, one pattern\n\nKEY SOURCES\n• UN Security Council, Report of the Special Mission to Benin, S/12294 (1977): https://digitallibrary.un.org/record/564389/files/S_12294-EN.pdf\n• Hansard, Written Statement: Equatorial Guinea, HL Deb 2 December 2004: https://api.parliament.uk/historic-hansard/written_statements/2004/dec/02/equatorial-guinea\n• Amnesty International, Equatorial Guinea: Trial of alleged coup plotters seriously flawed (AFR 24/017/2004): https://www.amnesty.org/en/wp-content/uploads/2021/08/afr240172004en.pdf\n• South African History Online, the 1981 Seychelles coup attempt and the TRC: https://sahistory.org.za/node/12464\n• Voice of America, Paris court sentences French mercenary (20 June 2006): https://www.voanews.com/a/a-13-2006-06-20-voa85/327734.html\n• Mail & Guardian / The Observer, \"Straw: We did know of Africa coup\" (14 Nov 2004): https://mg.co.za/article/2004-11-14-straw-we-did-know-of-africa-coup/\nAlso: Le Monde, Le Temps, Afrik.com, BBC News, Al Jazeera, Christian Science Monitor, Library of Congress country studies.\n\nCREDITS\nStock footage: Storyblocks (licensed).\nArchive news footage: AP Archive; Benin TV (ORTB).\nUN documents S/12294 and S/RES/405 (1977), courtesy of the United Nations.\nContains Parliamentary information licensed under the Open Parliament Licence v3.0.\nVia Wikimedia Commons: Simon Mann (2008) by Wapster, CC BY 2.0 · Mathieu Kérékou (2006) by Ricardo Stuckert/Agência Brasil, CC BY 3.0 BR · Mike Hoare (2018) by Roy Reed, CC BY-SA 4.0 · Ahmed Abdallah by Yanis, CC BY-SA 4.0 · Said Mohamed Djohar (1991), European Communities, CC BY 4.0 · France-Albert René, P. W. Botha, Teodoro Obiang (public domain) · \"United Nations Headquarters - Security Council chamber\" by Jdforrester, CC BY 4.0 · \"Signature de Jacques Foccart\", Archives nationales (France), CC BY-SA 4.0 · \"Froth Blowers Handkerchief\", CC BY-SA 3.0 · \"Boeing 707 Air India Basle - 1976\" by Eduard Marmet, CC BY-SA 3.0 · \"Palais Justice Paris\" by Benh LIEU SONG, CC BY-SA 3.0 · \"Malabo a 13-oct-01\" by Ipisking, CC BY-SA 3.0 · Seychelles International Airport, NASA (public domain) · \"Residenza comoriana di Bob Denard\" (public domain).\nYouTube (CC BY): Jion Kubo, derivemagazin, Willem Heerbaart; \"1944 Lockheed Constellation Record\" (public domain).\nSome footage is illustrative and labelled as such on screen.",
+          "publishedAt": "2026-11-12T02:48:01",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=q6m9eu-XCok",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_0cbd8a64e2a16a46c19c1e78a1f30f92",
+      "title": "PS LESPWAR Delivery Highlighted in Seychelles-India Defence Ties",
+      "description": "A Twitter post published on 6 November 2026 celebrates Major General Michael Rosette’s visit to the Indian Pavilion at Euronaval 2026 and refers to the successful delivery of PS LESPWAR earlier in 2026. It presents the delivery as context for India-Seychelles defence cooperation and maritime security, but does not specify the delivery date, recipient or further details.",
+      "category": "Safety & Security",
+      "publications": [
+        {
+          "publicationId": "cmw69qumw0rii01rw4nw3sgci",
+          "rawId": 18032,
+          "title": "",
+          "text": "Strengthening bilateral ties and maritime security! 🇮🇳🇸🇨 Great to see Major General Michael Rosette visiting the Indian Pavilion at #Euronaval2026 following the successful delivery of PS LESPWAR earlier this year. Proud moment for India-Seychelles defence cooperation! \n\n@MEAIndia @IndianDiplomacy @PMOIndia @mygovindia @PIB_India",
+          "publishedAt": "2026-11-06T09:49:44",
+          "source": "Twitter",
+          "url": "https://x.com/hci_seychelles/status/2118596678294839351",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_e4b106126c5d4bbd220dc7d864373725",
+      "title": "Shopkeeper Seriously Injured in Mont Buxton Attack (Seychelles)",
+      "description": "In a police statement dated 21 October 2026, Seychelles Police said a 26-year-old man from Mont Buxton (Seychelles) appeared before the Magistrates’ Court at Ile du Port (Seychelles) and was remanded in police custody for 14 days in connection with an investigation. The investigation concerns an attack on an Indian-national shopkeeper in his Mont Buxton shop on the afternoon of 18 October 2026, when he was seriously injured; the incident was reported to police that day.",
+      "category": "Safety & Security",
+      "publications": [
+        {
+          "publicationId": "cmvzwojjz165v01mdql6apm27",
+          "rawId": 38436,
+          "title": "",
+          "text": "PR AND CORPORATE IMAGE UNIT \n21.10.2026\n\nKominike\n\nEn zonm 26an sorti Mont Buxton in pas devan Lakour Mazistra Ile Du Port, kot in ganny rimann 14 zour andetansyon lapolis.\n\nSa I an koneksyon avek en lanket ki lapolis pe fer dan en lensidan ki ti ganny raporte avek lapolis le 18 Oktob 2026, kot en marsan avek nasyonalite Endyen ti ganny atake e gravman blese dan son laboutik Mont Buxton Dimans apremidi.\n\nDepartman Lapolis",
+          "publishedAt": "2026-10-21T15:11:40",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122193817910926480&id=61577794426908",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_f21dcae84475750416f11e03ceee01c6",
+      "title": "Wavel’s ‘Return Seychelles to Seychellois’ Remark Challenged",
+      "description": "In a Facebook post published on 22 October 2026, the author challenges Wavel’s reported call to “give Seychelles back to Seychellois,” asking whether only the 30,000 LDS are considered Seychellois and what place remains for other immigrants. The post does not establish the exact wording or context of Wavel’s statement.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmw02o82x1fy001md9bpfqi4w",
+          "rawId": 37815,
+          "title": "",
+          "text": "Bonzour ✌️✌️\nWavel i dir ran seselwa son pei \nSavedir zis sa 30 mil LDS ki seselwa???\nWhat about the rest nou immigrants??",
+          "publishedAt": "2026-10-22T10:57:11",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1620103702381902&id=1686209186257971",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_9cf157d69aa7de04cd9d665c8279a1c3",
+      "title": "Road Closure for Broken-Pole Repairs in Anse Louis (Seychelles)",
+      "description": "PUC will close the road between the entrance of Dan Bamboo (Seychelles) and Lower La Salette (Seychelles), in Anse Louis (Seychelles), from 9 a.m. to 4 p.m. on 11 November 2026 to resume urgent work repairing a broken pole. The publication attributes the damage to a vehicular accident in the area; it gives no further details about the accident.",
+      "category": "Transport & Logistics",
+      "publications": [
+        {
+          "publicationId": "cmwcvwsa235yr01rw6t90yyi0",
+          "rawId": 2681,
+          "title": "",
+          "text": "Road closure for resumption of urgent maintenance work - Anse Louis, Dan Bamboo to Lower La Salette\n\nMotorists and residents of Anse Louis are informed that the road between the entrance of Dan Bamboo and Lower La Salette will be closed between 9am to 4pm today, Wednesday 11th  November 2026, to allow PUC to resume urgent work to repair broken pole caused by vehicular accident in the area.\n\nPUC thanks you for your coorporation.",
+          "publishedAt": "2026-11-11T06:46:08",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1625198569405438&id=100057459308920",
+          "category": "Transport & Logistics"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_90b99c322d6d05748638220c5b91a42b",
+      "title": "First Sea Cucumber Batch Exported to China Under Zero Tariff",
+      "description": "On 9 October 2026, Chinese Ambassador Ms. Lin Nan attended a ceremony for the first batch of dried sea cucumber exported to China under Zero Tariff, alongside Mr. Wallace Cosgrow, identified as “Principle Minister” and Minister for Fishery, Agriculture and Blue Economy. The publication gives no shipment quantity or specific location.",
+      "category": "Environment & Oceans",
+      "publications": [
+        {
+          "publicationId": "cmvzulzek15mp01mdtgg0l14t",
+          "rawId": 45851,
+          "title": "",
+          "text": "On 9 October 2026, Chinese Ambassador Ms. Lin Nan attended the export shipment ceremony of first batch dried sea cucumber to China under Zero Tariff with Mr. Wallace Cosgrow, Principle Minister and Minister for Fishery, Agriculture and Blue Economy.",
+          "publishedAt": "2026-10-09T16:27:56",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122302142282151183&id=61554535510387",
+          "category": "Environment & Oceans"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_17f80fe0fd80a906d6b64722b41db84d",
+      "title": "Seychelles Approves Draft Tobacco-Control Amendments",
+      "description": "On 4 November 2026, the Seychelles National Assembly approved a draft bill to amend the Tobacco Control Act, which has been in place since 2009. All 28 members present voted in favour; the proposed amendments would regulate newer tobacco products, including electronic cigarettes and vapes.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmw6ap4xr0yer01rwerimm6jd",
+          "rawId": 20530,
+          "title": "",
+          "text": "🔴 𝐄𝐤𝐬𝐭𝐫𝐞: Lasanble Nasyonal in aprouv proze-de-lwa pou amann Lalwa Kontrol Taba ki’n la depi 2009. Tou le 28 manm ki ti prezan dan sesyon yer ti vot anfaver. \n\nSa bann lamannman i neseser prenan kont bann nouvo prodwi taba ki’n vin lo marse e pe ganny konsonmen, parey sigaret elektronik oubyen 'vape'.\n\nSa bann nouvo propozisyon pe fer ki zot osi zot ganny byen regilarize e kontrole.",
+          "publishedAt": "2026-11-04T20:25:54",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1731480512320211&id=100063748354217",
+          "category": "Healthcare"
+        },
+        {
+          "publicationId": "cmw6ap88c0yey01rwamartiis",
+          "rawId": 21076,
+          "title": "",
+          "text": "National Assembly passes Bill to regulate e-cigarettes and vapes\n\nby S. Surman\n\nThe National Assembly passed the Tobacco Control (Amendment) Bill, 2026 (Bill No. 17 of 2026) unanimously on Tuesday, 3 November 2026. The Minister for Health, Dr. Marvin Fanny, presented the Bill to the House. He was accompanied by a delegation comprising the Public Health Commissioner, Dr. Jude Gedeon; Programme Manager Ms. Barathi Viswanathan; and the Principal Legal Draftsperson from the Attorney General’s Office, Mr. Victor Hill.\n\nFor full context and detailed reporting, read the complete article in today’s edition. Subscribe by calling +248 4290999 or email us at sales@today.sc",
+          "publishedAt": "2026-11-04T15:14:07",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1762690389197532&id=100063697624301",
+          "category": "Healthcare"
+        },
+        {
+          "publicationId": "cmw6dzrju0yq301rwwhkzvgcb",
+          "rawId": 20093,
+          "title": "Lasanble Nasyonal in aprouv proze-de-lwa pou amann Lalwa Kontrol Taba ki’n la depi 2009. Tou le 28 manm ki ti prezan dan sesyon yer ti vot anfaver.  Sa bann lamannman i neseser prenan kont bann nouvo prodwi taba ki’n vin lo marse e pe ganny konsonmen, parey sigaret elektronik oubyen ‘vape’. Sa bann nouvo propozisyon pe fer ki zot osi zot ganny byen regilarize e kontrole.",
+          "text": "Lasanble Nasyonal in aprouv proze-de-lwa pou amann Lalwa Kontrol Taba ki’n la depi 2009. Tou le 28 manm ki ti prezan dan sesyon yer ti vot anfaver.  Sa bann lamannman i neseser prenan kont bann nouvo prodwi taba ki’n vin lo marse e pe ganny konsonmen, parey sigaret elektronik oubyen ‘vape’. Sa bann nouvo propozisyon pe fer ki zot osi zot ganny byen regilarize e kontrole.\n<p>Lasanble Nasyonal in aprouv proze-de-lwa pou amann Lalwa Kontrol Taba ki’n la depi 2009. Tou le 28 manm ki ti prezan dan sesyon yer ti vot anfaver. Sa bann lamannman i neseser prenan kont bann nouvo prodwi taba ki’n vin lo marse e pe ganny konsonmen, parey sigaret elektronik oubyen &#8216;vape&#8217;. Sa bann nouvo propozisyon [&#8230;]</p>\n<p>The post <a href=\"https://www.sbc.sc/news/lasanble-nasyonal-in-aprouv-proze-de-lwa-pou-amann-lalwa-kontrol-taba-kin-la-depi-2009-tou-le-28-manm-ki-ti-prezan-dan-sesyon-yer-ti-vot-anfaver-sa-bann-lamannman-i-neseser-prenan-kont-ban/\">Lasanble Nasyonal in aprouv proze-de-lwa pou amann Lalwa Kontrol Taba ki’n la depi 2009. Tou le 28 manm ki ti prezan dan sesyon yer ti vot anfaver.  Sa bann lamannman i neseser prenan kont bann nouvo prodwi taba ki’n vin lo marse e pe ganny konsonmen, parey sigaret elektronik oubyen &#8216;vape&#8217;. Sa bann nouvo propozisyon pe fer ki zot osi zot ganny byen regilarize e kontrole.</a> appeared first on <a href=\"https://www.sbc.sc\">Seychelles Broadcasting Corporation </a>.</p>",
+          "publishedAt": "2026-11-05T05:03:31",
+          "source": "RSS",
+          "url": "https://www.sbc.sc/news/lasanble-nasyonal-in-aprouv-proze-de-lwa-pou-amann-lalwa-kontrol-taba-kin-la-depi-2009-tou-le-28-manm-ki-ti-prezan-dan-sesyon-yer-ti-vot-anfaver-sa-bann-lamannman-i-neseser-prenan-kont-ban/",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_031f49565c27d1cb07fc86580c79a980",
+      "title": "Seychelles Gold Bars Worth SCR 47 Million Reportedly Lost",
+      "description": "A Facebook post dated 7 October 2026 alleges that gold bars valued at SCR 47 million were lost under the LDS administration. It also claims that evidence was disposed of or cannot be found; no further details are provided.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmw77yy1o18c201rwqpbqb6z2",
+          "rawId": 47020,
+          "title": "",
+          "text": "A value of 47million sey rupees gold bars lost under LDS adminstration..\nEvidence disposed no where to be found",
+          "publishedAt": "2026-10-07T14:09:00",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1606752353717037&id=1117493867334550",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_6f57676ec89e5473560e43af9477019e",
+      "title": "New Beau Champs Bridge in Bel Ombre (Seychelles)",
+      "description": "A Facebook publication dated 26 October 2026 identifies a new Beau Champs Bridge in Bel Ombre (Seychelles). It gives no details about when the bridge was built or opened.",
+      "category": "Infrastructure",
+      "publications": [
+        {
+          "publicationId": "cmvzuossb15n201md4s9lwtek",
+          "rawId": 34250,
+          "title": "",
+          "text": "New Beau Champs Bridge - Bel Ombre.",
+          "publishedAt": "2026-10-26T19:48:40",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/reel/1475173591188690/",
+          "category": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_6bb12b7cb1a56dbdef4645476eeda2cc",
+      "title": "German Tourist Found Dead Near Anse Coco (Seychelles) Trail",
+      "description": "Seychelles Police reported that a German tourist was found dead near the Anse Coco (Seychelles) trail and that an investigation was launched. The date and circumstances of the death are not specified; the report was published on 28 October 2026.",
+      "category": "Safety & Security",
+      "publications": [
+        {
+          "publicationId": "cmvzttgfw15kd01mdn7m3bkdw",
+          "rawId": 33411,
+          "title": "",
+          "text": "🔴 𝐋𝐚𝐩𝐨𝐥𝐢𝐬 𝐈 𝐤𝐨𝐧𝐟𝐢𝐫𝐦 𝐥𝐚𝐧𝐦𝐨𝐫 𝐭𝐨𝐮𝐫𝐢𝐬 𝐀𝐥𝐦𝐚𝐧. \n\nLapolis in konfirmen ki sa viziter etranze ki ti ganny raporte manke lo santye Anse Coco bomaten in ganny dekouver mor ozordi apremidi, dan en landrwa andeor santye ant Petite Anse ek Anse Coco.\n\nDan en kominike lapolis I dir en lanket in konmanse pou etabli sirkonstans otour son lanmor an atandan rezilta letopsi.\n\nSa zonm Alman aze 30an, ti ariv Sesel le 25 Oktob 2026 e ti ekspekte kit pei demen le 28 Oktob 2026.\n\n(Sours: Departman Lapolis)",
+          "publishedAt": "2026-10-27T18:10:11",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1721635083304754&id=100063748354217",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzw8szj15we01mdh5eg2whw",
+          "rawId": 34044,
+          "title": "",
+          "text": "PR AND CORPORATE IMAGE UNIT\n27.10.2026\n\nKominike\n\nLapolis e zofisye Lazans Servis Tenny Dife ek Sovtaz baze lo La Digue in ansemoman mont en loperasyon resers ek sekour lo  Santye Anse Coco, pour rod en viziter kin ganny raporte manke.\n\nSa i vin apre en rapor ki lapolis tin fek resevwar ki en viziter etranze, tin kit son letablisman e prezimen nal dan santye Anse Coco.\n\nPlis detay dan en prosen kominike. \n \nDepartman Lapolis",
+          "publishedAt": "2026-10-27T01:04:05",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122194575116926480&id=61577794426908",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzw92ir15wp01md5rjbbqq9",
+          "rawId": 33445,
+          "title": "",
+          "text": "PR AND CORPORATE IMAGE UNIT\n27.10.2026\n\nKominike (Swivi)\n\nSa viziter etranze ki ti ganny raporte manke lo santye Anse Coco bomaten avek Lapolis in ganny dekouver mor ozordi apremidi, dan en landrwa andeor santye ant Petit Anse ek Anse Coco.\n\nSa zonm aze 30an e ki annan nasyonalite Alman, ti ganny raporte manke apre ki i ti retourn lo lans Anse Coco ver 9er diswar pour al rod en lekipman plonze ki i tin oubliye lo sa lans pli boner.\n\nLapolis ti mobiliz plizyer zofisye sorti Mahé pour asiste dan sa loperasyon resers, enkli bann zofisye sorti Dog Unit, Lapolis Lamarin ek lekip Drone e osi zofisye Lazans Servis Tenny Dife ek Sovtaz baze lo La Digue e lezot sivilyen ki tin osi asiste. \n\nEn lanket detaye in konmanse pour etabli bann sirkonstans otour son lanmor, an atandan rezilta letopsi.\n\nSa viziter tin ariv Sesel le 25 Oktob 2026 e ti ekspekte kit pei demen le\n28 Oktob 2026.\n\nDepartman Lapolis",
+          "publishedAt": "2026-10-27T17:39:12",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122194673174926480&id=61577794426908",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzwobos165l01mdiqeld2je",
+          "rawId": 32835,
+          "title": "",
+          "text": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched",
+          "publishedAt": "2026-10-28T10:07:14",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1645013197636651&id=100063839581821",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzxgnr516f901mdktg7ktcj",
+          "rawId": 33278,
+          "title": "German Tourist Found Dead in the Seychelles",
+          "text": "German Tourist Found Dead in the Seychelles\nA German tourist has been found dead in the Seychelles. The 30-year-old was discovered by a search party on the island of La Digue in a...",
+          "publishedAt": "2026-10-27T20:49:00",
+          "source": "Google",
+          "url": "https://www.bluewin.ch/en/news/german-tourist-found-dead-in-the-seychelles-li.3651003",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzxhj3m172x01mdy5xe5dgn",
+          "rawId": 33277,
+          "title": "German Tourist Found Dead in the Seychelles",
+          "text": "German Tourist Found Dead in the Seychelles\nA German tourist has been found dead in the Seychelles. The 30-year-old was discovered by a search party on the island of La Digue in a...",
+          "publishedAt": "2026-10-27T20:49:00",
+          "source": "Google",
+          "url": "/goto?url=CAESkAEB6zswFattuQPXSsNo7cvU02NPcgKsYTUKDzhQyTxs6RYvPKc8tqBpIfnpPj1FLzq3dv368MvjOI28tr3vfTUgrrEqDGoYCr3mNdILBtarKGw17a7kDuJuhLiWtqNJVgG9klHnqH8QwI_bETrJm2_p2dfSCxdIV_jwm5A_SDoPpIHgCRco7Nfm8j6hgokWD1c",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzxhuh6173f01mdb43vllpb",
+          "rawId": 32776,
+          "title": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched",
+          "text": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched\nSeychelles News Agency is a real time news provider in English that informs its readers about the latest Seychelles news.",
+          "publishedAt": "2026-10-28T11:23:37",
+          "source": "Google",
+          "url": "/goto?url=CAESzgEB6zswFXx9K49mHVxrXBL7XMXJSHZaXSwtmfYPJWRAP-lfdrAiSRWQZrQ0mjgn-dE34DrEGwfjgseJLnAYpqZHrMv0y4wIifuXAR3uelfaOS9XIRYDcCaAXwDaK01ZP5Mubz8YdNdE1dESv-TwIx7brByqG_6ehsdkus3Jglf6TG2rdICTtqdRCwIsXrq4FqsHZLmEZguLo_MahGJ3prN_NhzjZpEcAZlIPkRgWpv2r8u6VaIoD0aZc0pEv3aH_RD9GRk3D94QJ9y_Tw_9_A",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzxiuc3174m01md3pkokodw",
+          "rawId": 33276,
+          "title": "German Tourist Found Dead in the Seychelles",
+          "text": "German Tourist Found Dead in the Seychelles\nA German tourist has been found dead in the Seychelles. The 30-year-old was discovered by a search party on the island of La Digue in a...",
+          "publishedAt": "2026-10-27T20:49:00",
+          "source": "Google",
+          "url": "/goto?url=CAESkAEB6zswFeMySniQ67cF8Y6WLKykM0Q_8ud6FcXy5HPULaEXUnznv8aR0oiM_6g5eitRk_2gaan8_91FTg-717w0dgrtt4_YwuG9-Ar24rBeUS0I9K1b0h9E6Z2JI_q208iMvccy8mYboL8BHE2i3GBwU4GS70waAXXm9zTUp-EY9W8-LbugoTLwT4NyMkQeeu0",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzxiud2174p01mdq1szzjuv",
+          "rawId": 33275,
+          "title": "German Tourist Found Dead in the Seychelles",
+          "text": "German Tourist Found Dead in the Seychelles\nA German tourist has been found dead in the Seychelles. The 30-year-old was discovered by a search party on the island of La Digue in a...",
+          "publishedAt": "2026-10-27T20:49:00",
+          "source": "Google",
+          "url": "/goto?url=CAESkAEB6zswFTIEzTYoPeVi4IJgXWl8DdXvAtrQeRzH8pRO2zZ9pXo0d_F8-zl40fyZXnNhPd80PzVfqNCrb0gB-BRRTrTH_gVz4uBLfThBno-EKUqxNMD-cQkzUwk0I7c4Su9dKau88HhbOd7m7Rlj8KdYeH2ZJPecjlYIwiYhIptnNZGewbO9eAO3Y9pnwYJD52U",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmw039ba61g0q01mdnisu8c80",
+          "rawId": 32775,
+          "title": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched",
+          "text": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched\nSeychelles News Agency is a real time news provider in English that informs its readers about the latest Seychelles news.",
+          "publishedAt": "2026-10-28T11:23:37",
+          "source": "Google",
+          "url": "/goto?url=CAESzgEB6zswFSQrN1e5TcwY15Dt20GNjU0iHlmx2pp8Pu7gtOGOijqiu7J2aIAxt3BoDKml9z5Ppta9-qjn8naYQLf-3WWUdlAz7zBsZAAzX-fuealX7TDbe6KF-ulQP82Q_4q2fznTKixtzuBk51e7XdE9aWH2u-LlpjqGekPouei0ySzoOEvAmAouXu9BCubsG6WxG9RU8l-F5xS0maX5PV1tmH2DmcHLgYia8hcTHciJ5VOuQzQqcmG7mkG-uDMbQPPSDUrhrB7NWKhDi7-_Nw",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmw03a83g1g1401mdnvaow4ui",
+          "rawId": 32774,
+          "title": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched",
+          "text": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched\nSeychelles News Agency is a real time news provider in English that informs its readers about the latest Seychelles news.",
+          "publishedAt": "2026-10-28T11:23:37",
+          "source": "Google",
+          "url": "https://www.seychellesnewsagency.com/public/articles/22609/seychelles-police-german-tourist-found-dead-near-anse-coco-trail-investigation-launched",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmw03aswn1g1j01mdfmhqrmnd",
+          "rawId": 32773,
+          "title": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched",
+          "text": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched\nSeychelles News Agency is a real time news provider in English that informs its readers about the latest Seychelles news.",
+          "publishedAt": "2026-10-28T11:23:37",
+          "source": "Google",
+          "url": "/goto?url=CAESzgEB6zswFS_ht45bTcjCohIQuSXeclK6XeUGdfQU2aAiprbvkycJZkOq9iwJfgybA04xFwXw-VWY4R0Fp9TiKt3529c1V5N4cJ9e7gArP3oinpOiib-rcJaphQ3wAOrOgX-BR5NhjCX74NksmDaVjVTCYM5YrsPYoqOgJ4zJjDR4OenHirFnkJ6eP9FvxgC9vDpkd4NoQGMDO7ZtArv9N5o7ErzuAqV-6YnVoa2GUPN2Lwp6IuQV0nP2-khtCDVMLuT0ddu0PRAYBJE2O4uTpw",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmw03bb3z1g2301md7pj9ruzc",
+          "rawId": 32772,
+          "title": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched",
+          "text": "Seychelles Police: German tourist found dead near Anse Coco trail, investigation launched\nSeychelles News Agency is a real time news provider in English that informs its readers about the latest Seychelles news.",
+          "publishedAt": "2026-10-28T11:23:37",
+          "source": "Google",
+          "url": "/goto?url=CAESzgEB6zswFQo2CSwCsYXmYJuubxgIlD1TNxY0vZu-Ln5GuB7WYs3CG_iFCcziYJANEB1hWcLqmjRhQcjYUgrzwtUPo4QfLkJieKboa68W5wFvkmgUhyTgCKFgEDQe55nuPPKKE4WrbAo7slTfswt5QRPekdYGRASX1xxX1sEm2qg61xLva7EcKkAC0K_OhYo__EtFtCt7ZeJhu4aKzUf4dc8YgVYPReKEvX4_5k3-x5-5ww8-34AAJKUqy7Rj8cqUOUZceaUQzF-mwcVGo7E-zQ",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmw6m2z320z0y01rwwm2p7t1u",
+          "rawId": 33403,
+          "title": "",
+          "text": "Police Statement (Follow-up) 🚨\n\nThe foreign visitor who was reported missing to the police this morning while hiking along the Anse Coco trail has been found dead this afternoon in an area off the trail between Petit Anse and Anse Coco.\n\nThe 30-year-old German national was reported missing after returning to Anse Coco beach at around 9 p.m. to retrieve diving equipment he had left behind earlier.\n\nThe police mobilised several officers from Mahé to assist with the search operation. These included officers from the Dog Unit, the Marine Police and the Drone Team, as well as officers from the Seychelles Fire and Rescue Services based on La Digue. Several civilians also assisted in the search.\n\nA detailed investigation has been launched to establish the circumstances surrounding his death, pending the results of a post-mortem examination.\n\nThe visitor arrived in Seychelles on 25 October 2026 and was scheduled to leave the country on 28 October 2026.\n\nPolice Department",
+          "publishedAt": "2026-10-27T18:19:06",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1753088583491046&id=100063697624301",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmwa8fc9e1t6101rw8srlij28",
+          "rawId": 32844,
+          "title": "Traumurlaub endet schrecklich: Toter Deutscher auf den Seychellen entdeckt",
+          "text": "Traumurlaub endet schrecklich: Toter Deutscher auf den Seychellen entdeckt\nFür ein paar Tage bucht sich ein junges Ehepaar aus Deutschland auf den Seychellen ein. Plötzlich nimmt der Urlaub eine tragische Wende.",
+          "publishedAt": "2026-10-28T10:00:00",
+          "source": "Google",
+          "url": "/goto?url=CAES2gEBxCJF16pzcCs7dHK1CiUglByPJU3Vw8yEuy04w0Ah1Iab9DzsOqgERd4QOluVJFYG2BPh41-VqRRnqEtA1_edDIz9cCwRICWzozDt2hxFE6NfQ-yvzksYGJheyZtwdG0A1OdR03H8YNOeJBD7kL0CWu90jtCW5rOqGtWroVnW5w1gskILG75drxbsjfVhAjmzc99FDl268IHeHF20bqP1TOogEkpWAFcHvJQnQ2cqxmm1bIbiojN5ZYCkX4hx_V-yASCzElp7Wak8puv_r8DawiTZKJLrQGV1sg&gsessionid=dqDjWJv6yWWjJYbX0BQKnRUCca3QZNH9HvzjdjFSEYhvMiRgo1Dnhg",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmwa8fihv1t6m01rws1ejpves",
+          "rawId": 32842,
+          "title": "Von Ehefrau vermisst gemeldet: Deutscher Tourist im Urlaub auf Seychellen tot aufgefunden",
+          "text": "Von Ehefrau vermisst gemeldet: Deutscher Tourist im Urlaub auf Seychellen tot aufgefunden\nEin 30-jähriger deutscher Tourist wollte offenbar nur seine Schwimmbrille suchen, die er am Strand auf einer Insel der Seychellen verloren...",
+          "publishedAt": "2026-10-28T10:00:00",
+          "source": "Google",
+          "url": "/goto?url=CAESuAEBxCJF16Ngj4DN41CH-SWSi3EwVOBCdiqnPLsD-bqTQkujT7VL7lTHE4kOuhPKcYNAmolIwukGBKIDCZIFus2Z_qejcmCkWQg0K0CQmZnG-pmMZjTrAwOfZmkNerLboNOYladaNHZjAlXSBEXuALDDFHp9qnutHNBaxlrKAqfj4fkdCsmWz0RYZu6AHT-LrmS74sPj-0xVu0aYap4Ac9TrZSzMBUF0DDBBNNYPNleTiDFhxjwoJwS4&gsessionid=dqDjWJv6yWWjJYbX0BQKnRUCca3QZNH9HvzjdjFSEYhvMiRgo1Dnhg",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmwa8u5sd1t8l01rw4gra7xgg",
+          "rawId": 33829,
+          "title": "Tragödie im Urlaub: Deutscher stirbt bei Schwimmbrillen-Suche auf den Seychellen",
+          "text": "Tragödie im Urlaub: Deutscher stirbt bei Schwimmbrillen-Suche auf den Seychellen\nEin Urlauber vergisst seine Schwimmbrille am Strand und kommt von der Suchaktion nicht mehr ins Hotel zurück. Erst am nächsten Tag entdeckt...",
+          "publishedAt": "2026-10-27T10:00:00",
+          "source": "Google",
+          "url": "/goto?url=CAESpgEBxCJF12O7b4TI1tcYGBPV3XYeIlbjpXvVaComZWd5ZgSE5XUgM_gnSZKl74eZ0szR3G4iQ_kB9IdKUYnJ4meDqQfbL5_nRPD6gYonnC7C3HH4SujgGo4sYnymYP3XCGUbyDoxNxnGkC19kvj6_-TGyl-M73Y0OhtFa5dhrkn-yyB1GkaaDQ9YcoMT8BhRZHTOH98qoMKVENW136ZwgLfDz_8Dn20S&gsessionid=dqDjWJv6yWWjJYbX0BQKnRUCca3QZNH9HvzjdjFSEYhvMiRgo1Dnhg",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_e0f9b0bc812bf186cd903ca5b136c28e",
+      "title": "Exact Poverty Rates for Seychelles and Gabon Sought",
+      "description": "A Twitter post published on 9 November 2026 challenges the use of percentages for comparison and asks for the exact poverty rates for Seychelles and Gabon at the $4.20-per-day lower-middle-income baseline. It tells the addressed accounts not to hide the data; the post does not provide the rates or establish that data were withheld.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmwa8j21o1t8g01rwve1qgupa",
+          "rawId": 8417,
+          "title": "",
+          "text": "@grok @KaranMahajgh @darius753233951 If percentages are your standard for comparison, then do not hide the data. What are the exact poverty rates for Seychelles and Gabon at that same $4.20/day lower-middle-income baseline?",
+          "publishedAt": "2026-11-09T15:47:59",
+          "source": "Twitter",
+          "url": "https://x.com/Ayanfe_dan/status/2119773998565466195",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_1968cc590e84b836b17c564ff92c793c",
+      "title": "Inquiry Report on Contested Firearms Importation Delivered",
+      "description": "In a publication dated 31 October 2026, the account reported that Seychelles president (Patrick Herminie) took delivery of a Board of Enquiry report led by Justice Duncan Gaswaga into the contested importation of firearms. The publication gives no findings or further details about the importation.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzemomw111v01mda8giqpcw",
+          "rawId": 30382,
+          "title": "",
+          "text": "𝐋𝐈𝐕𝐄 𝐔𝐏𝐃𝐀𝐓𝐄:\nPresident Patrick Herminie is receiving the inquiry report  into the importation of Firearms from the Board of Enquiry led by Justice Duncan Gaswaga.\n(Credit: Patrick Joubert) https://t.co/1FY0ajD08E",
+          "publishedAt": "2026-10-30T08:16:32",
+          "source": "Twitter",
+          "url": "https://x.com/seynationnews/status/2116036507345498475",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzsg83a15da01mdc8xf7e6p",
+          "rawId": 30147,
+          "title": "",
+          "text": "President Herminie Receives Final Report of the Board of Inquiry on the Importation of Firearms\n\nThe President of the Republic, Dr. Patrick Herminie, this morning received the final report of the Board of Inquiry on the Importation of Firearms at State House. The report was presented by the Chairperson of the Board, Honourable Justice Duncan Gaswaga.\n\nAlso present were the Members of the Board, Mrs. Nissa Thomson, Mr. Justin Dogley and Mr. Edward Annacoura; the Secretary to the Board, Ms. Kyra Arnephy; and the Chief of Staff in the Office of the President, Ms. Jenifer Vel.\n\nRead: https://statehouse.gov.sc/news/7324/president-herminie-receives-final-report-of-the-board-of-inquiry-on-the-importation-of-firearms",
+          "publishedAt": "2026-10-30T12:11:43",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1602222985271066&id=100064501400043",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzwh7zu160s01mdei8bm26w",
+          "rawId": 30397,
+          "title": "",
+          "text": "𝐋𝐈𝐕𝐄 𝐔𝐏𝐃𝐀𝐓𝐄:\nPresident Patrick Herminie is receiving the inquiry report  into the importation of Firearms from the Board of Enquiry led by Justice Duncan Gaswaga.\n(Credit: Patrick Joubert)",
+          "publishedAt": "2026-10-30T08:03:58",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122279756210160289&id=61554808688056",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzwj6fw161q01mdtnbhlinr",
+          "rawId": 29501,
+          "title": "",
+          "text": "🔴 𝐄𝐤𝐬𝐭𝐫𝐞: Antou 99 endividi in donn levidans devan sa bord ki ti pe fer lanket dan lenportasyon zarm depi lannen 2000 ziska la. \nSa i konpri zofisye lafors defans, lapolis, politisyen e manm piblik. \n\nBomaten, bann manm sa bord ti prezant Prezidan Larepiblik, Dr Patrick Herminie, en kopi rapor lo lanket ki zot in fer pandan sa dernyen 10 mwan, apre ki sa bord ti pret serman le 19 Zanvye sa lannen. \n\nApard ki temwanyaz sorti kot bann endividi, tyermenn sa bord lanket, Ziz Duncan Gaswaga, in fer resorti ki zot in osi egzamin 378 dokiman.",
+          "publishedAt": "2026-10-30T20:34:22",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1725561686245427&id=100063748354217",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmvzy3w44177801md5s4cztcr",
+          "rawId": 30699,
+          "title": "President Herminie Receives Final Report of the Board of Inquiry on the Importation of Firearms",
+          "text": "President Herminie Receives Final Report of the Board of Inquiry on the Importation of Firearms\n<img alt=\"President Herminie Receives Final Report of the Board of Inquiry on the Importation of Firearms\" src=\"https://statehouse.gov.sc/uploads/news/2026/7324_NNR3hV0Tx.jpg\" /><br /><br /><p>The President of the Republic, Dr. Patrick Herminie, this morning received the final report of the Board of Inquiry on the Importation of Firearms at State House. The report was presented by the Chairperson of the Board, Honourable Justice Duncan Gaswaga.</p>\n<p>Also present were the Members of the Board, Mrs. Nissa Thomson, Mr. Justin Dogley and Mr. Edward Annacoura; the Secretary to the Board, Ms. Kyra Arnephy; and the Chief of Staff in the Office of the President, Ms. Jenifer Vel.</p>\n<p>The Board was established on 31 December 2025 by President Herminie, in his capacity as Commander-in-Chief of the Defence Forces, under the Defence (Board of Inquiry on Importation of Firearms) Regulations, 2025 (S.I. 103 of 2025). Its members were sworn in at State House on 19 January 2026. All proceedings of the Board were held in camera.</p>\n<p>The inquiry examined who authorised and financed these importations, how the firearms and ammunition were stored, and whether any unregistered armouries remain in existence.</p>\n<p>Speaking to members of the press after the handover, Justice Gaswaga shared some of the recommendations contained in the report. He said that, if fully read, internalised and implemented, the recommendations would bring significant change to how things are done, including in matters of national security.</p>\n<p>The recommendations address how operations involving the armed forces should be conducted, and how arms are issued and used, with clear procedures to be put in place for such operations. They also set out general standards for officers of the Seychelles Defence Forces and the Police who carry weapons.</p>\n<p>The Board further recommended that the country develop a modern armoury, together with proper systems governing how weapons are stored, moved, regulated and disposed of.</p>\n<p>In receiving the report, President Herminie thanked the Chairperson and Members of the Board for their work. The President will now study the report and its recommendations in detail. A decision on whether the report will be made public will be taken in due course.In receiving the report, President Herminie thanked the Chairperson and Members of the Board for their work. The President, following a thorough review of the report and its recommendations</p>",
+          "publishedAt": "2026-10-30T00:00:00",
+          "source": "RSS",
+          "url": "https://statehouse.gov.sc/news/7324/president-herminie-receives-final-report-of-the-board-of-inquiry-on-the-importation-of-firearms",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmw0247lg1fu101md0g1uo6vq",
+          "rawId": 29228,
+          "title": "",
+          "text": "🚨 BREAKING: Seychelles president receives firearms-import inquiry report\nPatrick Herminie took delivery of the Board of Enquiry report led by Justice Duncan Gaswaga into the contested importation of firearms.\n#Seychelles\nhttps://t.co/ypXCfQUxWM",
+          "publishedAt": "2026-10-31T01:36:37",
+          "source": "Twitter",
+          "url": "https://x.com/NotifNews1/status/2116298256691110285",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmw6as9lg0yfg01rw6wzijrlq",
+          "rawId": 30215,
+          "title": "Prezidan Herminie i Resevwar Rapor Final Komisyon Lanket lo Lenportasyon Zarm",
+          "text": "Dr. Patrick Herminie this morning received the final report of the Board of Inquiry on the Importation of Firearms at State House. The report was presented by the Chairperson of the Board, Honorable Justice Duncan Gaswaga.\nIn addition, the Board also investigated the involvement of foreign mercenaries or former foreign military personnel during Operation Black Iron, including their recruitment, access to firearms, and who authorized and supervised their activities.\nThe inquiry also assessed whether foreign private contractors exercised arrest, search, or seizure powers, and consider any other related matters. President Herminie Receives Final Report of the Board of Inquiry on the Importation of Firearms\n\nThe President of the Republic, Dr. Patrick Herminie, this morning received the final report of the Board of Inquiry on the Importation of Firearms at State House. The report was presented by the Chairperson of the Board, Honourable Justice Duncan Gaswaga.\n\nAlso present were the Members of the Board, Mrs. Nissa Thomson, Mr. Justin Dogley and Mr. Edward Annacoura; the Secretary to the Board, Ms. Kyra Arnephy; and the Chief of Staff in the Office of the President, Ms. Jenifer Vel.",
+          "publishedAt": "2026-10-30T11:07:59",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=O_RYKkgy4BM",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmwa8ae6p1t4u01rwmiminrgn",
+          "rawId": 30312,
+          "title": "",
+          "text": "President Herminie Receives Final Report of the Board of Inquiry on the Importation of Firearms\n\nPresident Dr. Patrick Herminie this morning received the final report of the Board of Inquiry on the Importation of Firearms at State House. The report was presented by the Chairperson of the Board, Honourable Justice Duncan Gaswaga.\n\nSpeaking to the press after the handover, Justice Gaswaga shared some of the recommendations contained in the report. 👇",
+          "publishedAt": "2026-10-30T09:46:06",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/reel/1474623877850925/",
+          "category": "Safety & Security"
+        },
+        {
+          "publicationId": "cmwbh5z3r2xf701rwrm36c6s3",
+          "rawId": 30383,
+          "title": "𝐋𝐈𝐕𝐄 𝐔𝐏𝐃𝐀𝐓𝐄:",
+          "text": "President Patrick Herminie is receiving the inquiry report  into the importation of Firearms from the Board of Enquiry led by Justice Duncan Gaswaga.\n(Credit: Patrick Joubert)",
+          "publishedAt": "2026-10-30T08:16:12",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=6dzGEIUIlBs",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_4ab7ac36a8bff358b21057f66ec5ee4f",
+      "title": "Aldabra (Seychelles) Tortoises Reportedly Hunt Island Bird Chicks",
+      "description": "A Twitter post dated 24 October 2026 claims that Aldabra (Seychelles) tortoises have learned to hunt baby island birds, which it says lack an evolutionary history with predation and sit still as the tortoises approach. It gives no bird species, occurrence date, or broader ecological impact.",
+      "category": "Environment & Oceans",
+      "publications": [
+        {
+          "publicationId": "cmw6a6kzu0wn501rwjezwlol5",
+          "rawId": 36474,
+          "title": "",
+          "text": "Apparently Aldabra tortoises have learned to hunt baby birds, and do so with relish, but these are island birds who up to this point have had no evolutionary history with predation so the baby birds just sit there while these giant carapaced monsters lumber over to gobble them up https://t.co/1AlvFF4U6D",
+          "publishedAt": "2026-10-24T04:10:16",
+          "source": "Twitter",
+          "url": "https://x.com/p0quess1ng/status/2113800207884247159",
+          "category": "Environment & Oceans"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_9746f39ce3f19d0e1e8208414c9ae7f5",
+      "title": "SADC and Russia Sign Broad Cooperation Action Plan",
+      "description": "The Twitter publication dated 8 November 2026 reports that SADC Executive Secretary Elias Mpedi Magosi and Russian Foreign Minister Sergey Lavrov signed an action plan in Moscow (Russia); the signing date is not specified. The plan covers cooperation in multiple sectors, including agriculture, trade, energy, transport, education and healthcare, and SADC includes Seychelles.",
+      "category": "Infrastructure",
+      "publications": [
+        {
+          "publicationId": "cmwa8hgzu1t8101rwjyrb5ezg",
+          "rawId": 11973,
+          "title": "",
+          "text": "South African Development Community-Russia Sign Cooperation Action Plan. \nThe SADC Executive Secretary Elias Mpedi Magosi and Russian Foreign Minister Sergey Lavrov signed an Action Plan on Cooperation in Moscow, involving SADC members Angola, Botswana, Comoros, Democratic Republic of Congo, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Tanzania, Zambia and Zimbabwe. \nThe agreement provides for implementation of the existing memorandum on the basic principles of relations and cooperation. Its sectoral coverage includes agriculture and food security, trade and investment, industrialisation, energy, mining, transport, information and communication technologies, education, healthcare, culture and youth development. The agreement is significant because SADC includes several of Africa’s major mineral-producing and industrial economies. For Russian mining, fertiliser, engineering and transport companies, regional engagement creates opportunities to examine supply chains that connect resource-producing countries with ports, processing facilities and manufacturing markets.\nMore on this and other Africa-Russia trade and investment news here: https://t.co/my4DdDMysd",
+          "publishedAt": "2026-11-08T10:15:12",
+          "source": "Twitter",
+          "url": "https://x.com/RussiasPivot/status/2119327865334337894",
+          "category": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_b611d27d48e46f88e598f4ae9d172e6d",
+      "title": "Dangerous Overtaking Raises Concern for Child Pedestrians",
+      "description": "A Facebook publication dated 10 November 2026 complains that young boys are dangerously overtaking cars in Seychelles, raising concern for children walking beside roads to and from school. No specific road or occurrence date is given.",
+      "category": "Safety & Security",
+      "publications": [
+        {
+          "publicationId": "cmwa7dvqp1t0k01rwy5fizmn3",
+          "rawId": 7058,
+          "title": "",
+          "text": "Is this how we drive in Seychelles?\nNo care for our children walking on the side of the road coming and going to school?\n\nYoung boys driving dangerously over taking cars, but yet to be men and be accountable for their actions.",
+          "publishedAt": "2026-11-10T00:05:57",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1637728820619390&id=1869944204176481",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmwa88qzd1t4e01rwp3nz5jfx",
+          "rawId": 7057,
+          "title": "",
+          "text": "Is this how we drive in Seychelles?\nNo care for our children walking on the side of the road coming and going to school?\n\nYoung boys driving dangerously over taking cars, but yet to be men and be accountable for their actions.",
+          "publishedAt": "2026-11-10T00:05:57",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/1869944204176481/videos/1144303798531837/?idorvanity=402655470793404",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_01156942c9640c38641c7d797754c589",
+      "title": "Doctor Accused of Refusing Care and Pushing Hospital Patient",
+      "description": "A Facebook post published on 11 November 2026 alleges that a doctor at Seychelles Hospital refused treatment to a female patient and pushed her; the post says the patient was unconscious when the witness arrived. The incident date is not specified, and the allegation is not independently verified.",
+      "category": "Healthcare",
+      "publications": [
+        {
+          "publicationId": "cmwcvwzmn35yw01rwttpmlps5",
+          "rawId": 1791,
+          "title": "",
+          "text": "Bnnapremidi I pa en labitid Mon vin lo endividi ki tin vin kot en mn manm fanmir lopital sesel. Sa bout kot nou dir femel word. Mon to temwen kot en dokter ti met papye medical Dan figir en pasyan.E let sa pasyan ti koz ek li I ti ankoler e met ledwa anba nou nennen SA pasyan. E parey nou konmen Napa person ki ti pou Les SA arrive ek li menm ou en dokter. la kot konfonsyon. I antre . Ou refize war dimun ou refize donn li tretman ler nou Malad nou Tou nou konne lavi dimun I don zot anmen lasante \nSwisid I en krim lee nou get nou prod dokter pe komet vyolans lo nou prob pasyan Mon pe menm fer resorti ki Malad ki ou pa ganyen zot donn ou ler Mon ti war SA madanm vini I ti san konesans ler Mon ti vini dokter I koz lalang akz I annan lotorite . I dir ki SA madanm ti koz ek li me mon ki ti la ansemoman Mon ti gany sans filme Tou SA ki ti pe pase zot in menm refize donn li tretman dokter ala  ki li ki zot pakapab dir li nanyen I menm pous pasyan lopital sesel. Seselwa ki nou pe fer ditor koumsa lotorite get en kou ....",
+          "publishedAt": "2026-11-11T14:41:40",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1639211333804472&id=1114196711607163",
+          "category": "Healthcare"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_16dc0e0635b7204a64872aecd5199338",
+      "title": "Tourism Forum Highlights Hotel Booking Delays",
+      "description": "At the Seychelles Tourism Forum, Guillaume Albert of Creole Travel Services gave an example of a hotel-room enquiry in Seychelles on a Friday that might not receive confirmation until Wednesday as it passes among a hotel, tour operator and travel agency. He presented shortening this wait as a practical challenge for the tourism industry; the report was published on 2 October 2026.",
+      "category": "Tourism & Hospitality",
+      "publications": [
+        {
+          "publicationId": "cmw6b1pu00ygs01rweyxjpjle",
+          "rawId": 49181,
+          "title": "",
+          "text": "Tourism forum confronts the business of being found \n\nby K. Doku \n\nA traveller enquires about a hotel room in Seychelles on a Friday afternoon. Confirmation may not reach them until Wednesday, as the request and reply pass between the hotel, a tour operator and a travel agency. Guillaume Albert of Creole Travel Services used this example at the Seychelles Tourism Forum to illustrate a practical challenge for the industry: shortening the wait between a customer’s enquiry and a confirmed booking.\n\nFor full context and detailed reporting, read the complete article in today’s edition. Subscribe by calling +248 4290999 or email us at sales@today.sc",
+          "publishedAt": "2026-10-02T15:05:52",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1725362606263644&id=100063697624301",
+          "category": "Tourism & Hospitality"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_3c54531745b6acb5f9bb98bca74ef886",
+      "title": "Call for STC Cards for Air Seychelles Workers",
+      "description": "A Facebook post dated 2 November 2026 calls for Air Seychelles workers to receive STC cards and says their salaries do not go far enough. It contrasts this with the claim that the government recently paid Arya Star 5 million; the currency and payment date are not specified.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzwnrz0164s01mdw3oky4bm",
+          "rawId": 25528,
+          "title": "",
+          "text": "Alors Trevor Louise, Donn Travayer Air Sey kart STC. Larzan Saler pa ale ek Zot. Selman U govt fek pey Arya Star 5 milyon. Akoz ou pa Bous ou Bo.....",
+          "publishedAt": "2026-11-02T09:17:50",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1630260924699513&id=1164863962540097",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_ffa09c5af25b466f70d6b2095232cb5c",
+      "title": "US Said to Have No Interest in Air Seychelles Workers",
+      "description": "The Facebook publication states that the United States is not interested in Air Seychelles workers. It gives no specific decision, incident or consequence; the statement was published on 30 October 2026.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzwimf2161i01mdp2i36kjf",
+          "rawId": 29771,
+          "title": "",
+          "text": "US pa enterese avek travayer Air Seychelles.",
+          "publishedAt": "2026-10-30T17:00:35",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1541317737803444&id=100057756981471",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmvzxks04175a01mdxwwkipl1",
+          "rawId": 29775,
+          "title": "US pa enterese avek travayer Air Seychelles.",
+          "text": "US pa enterese avek travayer Air Seychelles.",
+          "publishedAt": "2026-10-30T17:00:18",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=DYpm_g7qYrI",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_96bb7219010c7e06ec97e7ca31ee7a02",
+      "title": "Seychelles Banks Agree Voluntary Customer Service Standards",
+      "description": "The publication, dated 30 October 2026, says Seychelles banks agreed to introduce new voluntary customer service standards from 2027. It provides no further details about the standards.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzsic8k15dj01mdcltl23ay",
+          "rawId": 31183,
+          "title": "",
+          "text": "Banks to adopt common customer service standards starting January 2027 \n\nby K. Doku \n\nThe Seychelles Bankers’ Association (SBA) has introduced customer service standards setting out how quickly banks should respond to calls, open accounts and update borrowers, alongside commitments to clearer information on fees and more accessible digital services.\n\nFor full context and detailed reporting, read the complete article in today’s edition. Subscribe by calling +248 4290999 or email us at sales@today.sc",
+          "publishedAt": "2026-10-29T15:58:51",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1755549023245002&id=100063697624301",
+          "category": "Public Complaints"
+        },
+        {
+          "publicationId": "cmvzwoidr165s01mdxizri3uv",
+          "rawId": 30146,
+          "title": "",
+          "text": "Seychelles banks agree to new voluntary customer service standards from 2027",
+          "publishedAt": "2026-10-30T12:11:50",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1647434827394488&id=100063839581821",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_618b7f3d795dcf84dea5c79b1251db24",
+      "title": "Seychelles Home Care Agency Launches Digital Service Platform",
+      "description": "A Twitter publication dated 2 November 2026 reports the launch of a new digital platform and information system for the Seychelles Home Care Agency at Avani+ Barbarons Resort (Seychelles). It says the system is intended to make home care services more efficient, flexible and transparent for citizens.",
+      "category": "Healthcare",
+      "publications": [
+        {
+          "publicationId": "cmvzepqiv11ya01mdtmi5bb9x",
+          "rawId": 31317,
+          "title": "",
+          "text": "𝐋𝐈𝐕𝐄 𝐔𝐏𝐃𝐀𝐓𝐄:\nSeychelles Home Care Agency is currently launching its website and home care information system in a ceremony being held at Avani+ Barbarons Seychelles.\n(Credit : Gilliana Anacoura) https://t.co/AI6DmK8Rni",
+          "publishedAt": "2026-10-29T14:06:45",
+          "source": "Twitter",
+          "url": "https://x.com/seynationnews/status/2115762256398987390",
+          "category": "Healthcare"
+        },
+        {
+          "publicationId": "cmvzeqd5912f601mdigns7tkw",
+          "rawId": 24491,
+          "title": "",
+          "text": "Launching the new digital platform and information system of Seychelles Home Care Agency from the heart of Avani+ Barbarons Resort 🌴🩺a tremendous launch that ensures the provision of more efficient, flexible, and transparent home care services to all citizens 💙",
+          "publishedAt": "2026-11-02T15:33:20",
+          "source": "Twitter",
+          "url": "https://x.com/MireilleRacv/status/2117233598998978613",
+          "category": "Healthcare"
+        },
+        {
+          "publicationId": "cmvzeqdmm12f701mdq0okj7ms",
+          "rawId": 24490,
+          "title": "",
+          "text": "@seynationnews Launching the new digital platform and information system of Seychelles Home Care Agency from the heart of Avani+ Barbarons Resort 🌴🩺a tremendous launch that ensures the provision of more efficient, flexible, and transparent home care services to all citizens 💙",
+          "publishedAt": "2026-11-02T15:33:32",
+          "source": "Twitter",
+          "url": "https://x.com/MireilleRacv/status/2117233647296143386",
+          "category": "Healthcare"
+        },
+        {
+          "publicationId": "cmvzwhe2y160y01mdueos3hwy",
+          "rawId": 31348,
+          "title": "",
+          "text": "𝐋𝐈𝐕𝐄 𝐔𝐏𝐃𝐀𝐓𝐄:\nSeychelles Home Care Agency is currently launching its website and home care information system in a ceremony being held at Avani+ Barbarons Seychelles.\n(Credit : Gilliana Anacoura)",
+          "publishedAt": "2026-10-29T13:46:18",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122279646782160289&id=61554808688056",
+          "category": "Healthcare"
+        },
+        {
+          "publicationId": "cmvzwk032162f01md2h3kp051",
+          "rawId": 29807,
+          "title": "",
+          "text": "Seychelles Home Care Agency launches new website and digital information system\n\nby H.Siu\n\nThe Seychelles Home Care Agency (SHCA) officially launched its new website and digital information system on Thursday, 29 October, at Avani+ Barbarons, as part of efforts to modernise its operations and improve service delivery. The introduction of the two digital platforms formed part of the Agency’s efforts to improve administrative efficiency, strengthen communication and \nfacilitate access to information for beneficiaries, caregivers and members of the public. \n\nFor full context and detailed reporting, read the complete article in today’s edition. Subscribe by calling +248 4290999 or email us at sales@today.sc",
+          "publishedAt": "2026-10-30T16:33:11",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1756834793116425&id=100063697624301",
+          "category": "Infrastructure"
+        },
+        {
+          "publicationId": "cmvzwokdu165w01md9ssx2fp8",
+          "rawId": 30855,
+          "title": "",
+          "text": "🔴 𝐑𝐞𝐩𝐨𝐫𝐭𝐚𝐳: Lazans swen kot lakour i lans son nouvo sitweb e sistenm nimerik pou kapab donn en servis pli modernize e efikas.\n\nSe minis responsab pour lafanmir, Pamela Charlette ki ti lans nouvo sitweb e Vis Prezidan Sebastien Pillay li ti lans nouvo sitenm nimerik.",
+          "publishedAt": "2026-10-29T20:27:21",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1724350443033218&id=100063748354217",
+          "category": "Infrastructure"
+        },
+        {
+          "publicationId": "cmvzy6hqh178401md3h6l8mpa",
+          "rawId": 30227,
+          "title": "Lazans swen kot lakour i lans son nouvo sitweb e sistenm nimerik pou kapab donn en servis pli modernize e efikas. Se minis responsab pour lafanmir, Pamela Charlette ki ti lans nouvo sitweb e Vis Prezidan Sebastien Pillay li ti lans nouvo sitenm nimerik.",
+          "text": "Lazans swen kot lakour i lans son nouvo sitweb e sistenm nimerik pou kapab donn en servis pli modernize e efikas. Se minis responsab pour lafanmir, Pamela Charlette ki ti lans nouvo sitweb e Vis Prezidan Sebastien Pillay li ti lans nouvo sitenm nimerik.\n<p>Lazans swen kot lakour i lans son nouvo sitweb e sistenm nimerik pou kapab donn en servis pli modernize e efikas. Se minis responsab pour lafanmir, Pamela Charlette ki ti lans nouvo sitweb e Vis Prezidan Sebastien Pillay li ti lans nouvo sitenm nimerik.</p>\n<p>The post <a href=\"https://www.sbc.sc/news/lazans-swen-kot-lakour-i-lans-son-nouvo-sitweb-e-sistenm-nimerik-pou-kapab-donn-en-servis-pli-modernize-e-efikas-se-minis-responsab-pour-lafanmir-pamela-charlette-ki-ti-lans-nouvo-sitweb-e-vis-prezi/\">Lazans swen kot lakour i lans son nouvo sitweb e sistenm nimerik pou kapab donn en servis pli modernize e efikas. Se minis responsab pour lafanmir, Pamela Charlette ki ti lans nouvo sitweb e Vis Prezidan Sebastien Pillay li ti lans nouvo sitenm nimerik.</a> appeared first on <a href=\"https://www.sbc.sc\">Seychelles Broadcasting Corporation </a>.</p>",
+          "publishedAt": "2026-10-30T10:58:52",
+          "source": "RSS",
+          "url": "https://www.sbc.sc/news/lazans-swen-kot-lakour-i-lans-son-nouvo-sitweb-e-sistenm-nimerik-pou-kapab-donn-en-servis-pli-modernize-e-efikas-se-minis-responsab-pour-lafanmir-pamela-charlette-ki-ti-lans-nouvo-sitweb-e-vis-prezi/",
+          "category": "Healthcare"
+        },
+        {
+          "publicationId": "cmw6lvo0t0yz101rw4xe7o1ye",
+          "rawId": 31301,
+          "title": "",
+          "text": "🌐 𝐒𝐇𝐂𝐀 𝐖𝐄𝐁𝐒𝐈𝐓𝐄 𝐈𝐒 𝐍𝐎𝐖 𝐋𝐈𝐕𝐄!\n\nThe Seychelles Home Care Agency (SHCA) has taken another important step towards modernising home care services with the launch of its newly developed Home Care Information System and revamped official website, during an event held at Avani+ Barbarons Hotel on Thursday, 29 October 2026.\n\n🔗 Visit the website now: www.shca.gov.sc\n\nThe new website serves as a central platform for the public to access information on home care services, learn about the Agency’s work, and engage with SHCA through feedback, complaints, suggestions and enquiries.\n\nThe launch was graced by Vice-President Sebastien Pillay, who oversees the portfolios of Information Communication Technology, Digital Transformation and Information. In his remarks, he commended SHCA for taking the initiative to embrace digital transformation in line with the Government’s agenda to improve public service delivery.\n\nHe highlighted that the new digital system will strengthen control, facilitate faster procedures, and support fair, objective and equitable verification of information and assessment of applications. He reaffirmed the Government’s commitment to promoting transparency, good governance and higher standards of service across public entities.\n\nCoinciding with the International Day of Care and Support, the Vice-President also paid tribute to caregivers who provide daily assistance to older persons and persons with disabilities.\n\nOn behalf of President Dr Patrick Herminie and the Government, he expressed sincere appreciation for their dedication, describing their work as a noble service that provides not only practical support but also comfort, dignity and companionship to those who need it most.\n\nHe further reassured caregivers of the Government’s commitment to improving home care services and supporting the modernisation and professionalisation of the sector. He encouraged caregivers to seize training opportunities to strengthen their knowledge and skills as the Agency advances its professionalisation plans.\n\nMinister Pamela Charlette, whose Ministry oversees SHCA, highlighted that 2026 has been a year of transformation, marked by greater coordination and collaboration among government entities to ensure that services reach the most vulnerable in a fairer and more effective manner.\n\nShe noted that the revamped website provides an additional channel for SHCA to communicate with the community, share information about its services, and receive public feedback, complaints and suggestions.\n\nThe launch marks another step towards a more accessible, transparent and efficient home care system, placing information and services within easier reach of the people who need them.\n\nThe event also provided an opportunity for guests, partners and stakeholders to network and exchange views during a networking session following the launch.\n\nVisit www.shca.gov.sc today and explore the new platform!",
+          "publishedAt": "2026-10-29T14:23:40",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122141181441175205&id=61585256174003",
+          "category": "Healthcare"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_5e92752bc6e2f1514f2fb0d595ca4630",
+      "title": "Ramkalawan’s Outer-Island Visits Spark Debate Over Intent",
+      "description": "A Twitter post dated 6 November 2026 says President Wavel Ramkalawan’s recent high-level visits to Seychelles’ outer islands have prompted debate about their intent. It gives no specific islands, visit dates or details of the debate.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmw69si480sba01rw91uua3iu",
+          "rawId": 17025,
+          "title": "",
+          "text": "Seychelles: Presidential Outreach and Local Governance Dynamics\n\nPresident Wavel Ramkalawan’s recent series of high-level state visits to the Seychelles' outer islands has sparked significant debate regarding the intent…\n\nhttps://t.co/JfOn0jbEro\n\n#Seychelles https://t.co/Skyusiao2w",
+          "publishedAt": "2026-11-06T17:09:05",
+          "source": "Twitter",
+          "url": "https://x.com/ApexAfricaHQ/status/2118707245424967886",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_7d95b254985c1c2cfa50078e9aca2d85",
+      "title": "Mauritius Denies Landing for Air Seychelles-Operated Israeli Charter",
+      "description": "Sputnik Africa reported on 8 November 2026 that an Israeli charter flight operated by Air Seychelles and organized by Spirit World Productions was cancelled after Mauritian authorities did not grant permission to land. The tour operator said approvals had been received months earlier and that it was told the refusal was based on “political and diplomatic considerations”; Israeli media linked the decision to Mauritius’s absence during Israeli Prime Minister Benjamin Netanyahu’s UN General Assembly address. Mauritian authorities had not commented, and the operator was arranging support for affected passengers.",
+      "category": "Transport & Logistics",
+      "publications": [
+        {
+          "publicationId": "cmwc8uwhr2yae01rw7jy82z2l",
+          "rawId": 10321,
+          "title": "",
+          "text": "Mauritius Reportedly Blocks Israeli Charter Flight, Citing Diplomatic Reasons\n\n🇲🇺🇮🇱 The flight, operated by Air Seychelles and organized by Spirit World Productions, was cancelled after authorities did not grant permission to land, Israeli media reported. \n\nKey details:\n\n🟠The tour operator claimed approvals had been received months earlier and that it was informed the refusal was based on \"political and diplomatic considerations.\" \n\n🟠The decision was linked to the absence of a Mauritian delegation during Israeli PM Netanyahu's UN General Assembly address this week, Israeli media said, citing unnamed sources. \n\n🟠Mauritian authorities have not commented, and the operator is working on arrangements for affected passengers.\n\nSubscribe to @sputnik_africa\n\n🔸 Sputnik Africa | X 🔸",
+          "publishedAt": "2026-11-08T22:07:52",
+          "source": "Telegram",
+          "url": "https://t.me/sputnik_africa102/2106",
+          "category": "Transport & Logistics"
+        },
+        {
+          "publicationId": "cmwc8vfgd2yaf01rwbarrq881",
+          "rawId": 10320,
+          "title": "",
+          "text": "Mauritius Reportedly Blocks Israeli Charter Flight, Citing Diplomatic Reasons\n\n🇲🇺🇮🇱 The flight, operated by Air Seychelles and organized by Spirit World Productions, was cancelled after authorities did not grant permission to land, Israeli media reported. \n\nKey details:\n\n🟠The tour operator claimed approvals had been received months earlier and that it was informed the refusal was based on \"political and diplomatic considerations.\" \n\n🟠The decision was linked to the absence of a Mauritian delegation during Israeli PM Netanyahu's UN General Assembly address this week, Israeli media said, citing unnamed sources. \n\n🟠Mauritian authorities have not commented, and the operator is working on arrangements for affected passengers.\n\nSubscribe to @sputnik_africa\n\n🔸 Sputnik Africa | X 🔸",
+          "publishedAt": "2026-11-08T22:07:52",
+          "source": "Telegram",
+          "url": "https://t.me/sputnik_africa101/2111",
+          "category": "Transport & Logistics"
+        },
+        {
+          "publicationId": "cmwcz7nbu363e01rw878v231d",
+          "rawId": 10319,
+          "title": "",
+          "text": "Mauritius Reportedly Blocks Israeli Charter Flight, Citing Diplomatic Reasons\n\n🇲🇺🇮🇱 The flight, operated by Air Seychelles and organized by Spirit World Productions, was cancelled after authorities did not grant permission to land, Israeli media reported. \n\nKey details:\n\n🟠The tour operator claimed approvals had been received months earlier and that it was informed the refusal was based on \"political and diplomatic considerations.\" \n\n🟠The decision was linked to the absence of a Mauritian delegation during Israeli PM Netanyahu's UN General Assembly address this week, Israeli media said, citing unnamed sources. \n\n🟠Mauritian authorities have not commented, and the operator is working on arrangements for affected passengers.\n\nSubscribe to @sputnik_africa\n\n🔸 Sputnik Africa | X 🔸",
+          "publishedAt": "2026-11-08T22:07:52",
+          "source": "Telegram",
+          "url": "https://t.me/sputnik_africa105/2055",
+          "category": "Transport & Logistics"
+        },
+        {
+          "publicationId": "cmwcz7plz363f01rw7swu2sra",
+          "rawId": 10318,
+          "title": "",
+          "text": "Mauritius Reportedly Blocks Israeli Charter Flight, Citing Diplomatic Reasons\n\n🇲🇺🇮🇱 The flight, operated by Air Seychelles and organized by Spirit World Productions, was cancelled after authorities did not grant permission to land, Israeli media reported. \n\nKey details:\n\n🟠The tour operator claimed approvals had been received months earlier and that it was informed the refusal was based on \"political and diplomatic considerations.\" \n\n🟠The decision was linked to the absence of a Mauritian delegation during Israeli PM Netanyahu's UN General Assembly address this week, Israeli media said, citing unnamed sources. \n\n🟠Mauritian authorities have not commented, and the operator is working on arrangements for affected passengers.\n\nSubscribe to @sputnik_africa\n\n🔸 Sputnik Africa | X 🔸",
+          "publishedAt": "2026-11-08T22:07:52",
+          "source": "Telegram",
+          "url": "https://t.me/sputnik_africa104/2107",
+          "category": "Transport & Logistics"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_271840c64b39b01b4b19dda92372f733",
+      "title": "Steps Taken to Address Flooding in Anse Kerlan (Seychelles)",
+      "description": "The publication says steps were taken on the morning of 21 October 2026 to address flooding affecting Anse Kerlan (Seychelles), and thanks PS Antat, DA Volcere and the management of Constance Lémuria for their support and collaboration. It expresses hope that conditions will improve and says the speaker’s office and the Government remain committed to restoring normalcy and pursuing long-term solutions; the speaker is not identified.",
+      "category": "Weather & Natural Events",
+      "publications": [
+        {
+          "publicationId": "cmw02vxm11fzd01mdydyouli4",
+          "rawId": 38619,
+          "title": "",
+          "text": "Anse Kerlan Residents,\n\nThis morning, we took important steps to address the flooding issues affecting our area, and we are hopeful that conditions will begin to improve soon.\n\nA special thank you to PS Antat, DA Volcere and the Management of Constance Lémuria for their support and collaboration.\n\nPlease be assured that my office and the Government remain committed to restoring normalcy as quickly as possible while continuing to invest in long-term solutions for a safer and more resilient Anse Kerlan.\n\nThank you for your patience and cooperation. 🇸🇨🙏",
+          "publishedAt": "2026-10-21T10:39:27",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/reel/1637798001372008/",
+          "category": "Weather & Natural Events"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_c6a793c7655e79d7a070e8481b059ec3",
+      "title": "SBC Criticized for Not Questioning President's Absence",
+      "description": "A Facebook publication dated 21 October 2026 criticizes the Seychelles Broadcasting Corporation (SBC) for not asking the Minister of Foreign Affairs why the President was absent when the minister read the President’s speech on 19 October, or why the President addressed the public by message rather than in person about bad weather on 20 October. The author says the broadcasts showed a lack of journalistic curiosity and describes SBC as reactive state media, leaving the public without answers about the President’s absence.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzfk3jy132y01mduoukb1t2",
+          "rawId": 38683,
+          "title": "",
+          "text": "There is still no news of the President this morning. This post is not about him. We will sooner or later find out why he was not seen in public for a few days and why he missed several key engagements. \n\nThis post is about our national broadcaster, SBC. The lack of curiosity demonstrated by the SBC in the whereabouts of the President recently is staggering. Two nights ago the news reported on the opening of the meeting of ambassadors and honorary consuls. The SBC showed the  Minister of Foreign Affairs reading the speech of the President. The journalist then interviewed the Minister. This was a perfect opportunity to ask the Minister why the President had not appeared to read his own speech. The journalist didn't. Why? \n\nThen, last evening, SBC read out a message from the President addressing the bad weather which had struck the country. Again, not a word about why the President was sending a message and not addressing the people in person. All it would have taken to clear the issue was a short message to State House.\n\nWe deserve more from our national broadcaster. Journalists must be inquisitive and proactive. We seem to have slipped back into a reactive state media, where the news is controlled by the government and the public is ignored.\n\nWhen the SBC Act was passed by the Assembly recently, the Opposition members warned that this would happen. It has taken only 2 months for us to have been proved right. Whether this is deliberate or as a result of self-censorship by journalists is not important. The result is the same. The population is left in the dark and the darkness will only get worse.",
+          "publishedAt": "2026-10-21T09:16:48",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122193501896952447&id=61578573432553",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_cb9c47a97662327966eff645ecab603e",
+      "title": "Camila Estico Appointed Seychelles Investment Board CEO",
+      "description": "The Office of the President announced on 1 October 2026 that Camila Estico was appointed Chief Executive Officer of the Seychelles Investment Board. Her appointment took effect on 1 October 2026.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmw02rc5s1fyi01md94au178q",
+          "rawId": 49713,
+          "title": "",
+          "text": "The Office of the President has today announced the appointment of Ms Camila Estico as the new Chief Executive Officer of the Seychelles Investment Board (SIB). \n\nRead more: https://statehouse.gov.sc/news/7280/appointment-of-chief-executive-officer-of-the-seychelles-investment-board",
+          "publishedAt": "2026-10-01T10:25:10",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1572734758219889&id=100064501400043",
+          "category": "Infrastructure"
+        },
+        {
+          "publicationId": "cmw8mkp7w1ho501rwuyj3aygs",
+          "rawId": 49709,
+          "title": "",
+          "text": "The Office of the President has today announced the appointment of Ms Camila Estico as the new Chief Executive Officer of the Seychelles Investment Board (SIB). \n\nHer appointment takes effect on 1st October 2026.",
+          "publishedAt": "2026-10-01T10:34:11",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1723895223077049&id=100063697624301",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_6995df807ba0a4e134f1f54adf7966fb",
+      "title": "Zone Near Seychelles Monitored Ahead of Cyclone Season",
+      "description": "A Twitter post published on 18 October 2026 says a zone in the south-western Indian Ocean, in the equatorial area around Seychelles, is under surveillance. It says the official start of the cyclone season is 15 November 2026; it does not identify a cyclone or specify a threat or forecast.",
+      "category": "Weather & Natural Events",
+      "publications": [
+        {
+          "publicationId": "cmvzermep12v301mdjg9s6mce",
+          "rawId": 40595,
+          "title": "",
+          "text": "Ce n’est pas encore l'été dans l'hémisphère sud mais une zone est sous surveillance dans le sud ouest de l'océan Indien, dans la partie équatoriale autour des Seychelles. Le début \"officiel\" de la saison cyclonique est encore dans un petit mois (15/11). https://t.co/WDWER48r5r",
+          "publishedAt": "2026-10-18T16:31:42",
+          "source": "Twitter",
+          "url": "https://x.com/Ninofishing/status/2111812466808123815",
+          "category": "Weather & Natural Events"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_f9d94f01dd3f2eccd840880aa705b076",
+      "title": "Matyou's Travel Criticized as a Threat to Seychelles' Finances",
+      "description": "In a Facebook post published on 1 October 2026, the writer asks where “Matyou” is, says he has been travelling widely, and warns that when he leaves the country Seychelles will have no money and return to its knees. The post does not identify Matyou or provide evidence for the financial warning.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmvzw8jvv15vq01mdy7btvmty",
+          "rawId": 49703,
+          "title": "",
+          "text": "Oli Matyou? \nEski I pe kasyet dan en trou?\nI a pe morso travel tou pou tou.\nLer I larg sa pei, nou pou napa en sou. \nSesel 🇸🇨 pou retoun lo son zenou.\nhttps://www.facebook.com/reel/1571959634181291/",
+          "publishedAt": "2026-10-01T10:55:07",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=10237061965388533&id=1225057457",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_92f5d727ddb9115b4c4ce2faf5cb8c26",
+      "title": "Anse Aux Pins (Seychelles) Launches Community Recycling Initiative",
+      "description": "A Facebook publication dated 2 November 2026 reports that Anse Aux Pins (Seychelles) became the first district to officially launch a community recycling initiative. Special bins for sorting waste were unveiled recently; the publication does not specify when the launch or unveiling took place.",
+      "category": "Environment & Oceans",
+      "publications": [
+        {
+          "publicationId": "cmvzrq974159v01md1fbv5gqu",
+          "rawId": 30417,
+          "title": "",
+          "text": "♻️ Anse Aux Pins leads the ay as first district to launch the Seychelles community recycling initiatives \n\n#AnseAuxPins has become the first district in Seychelles to officially launch the Seychelles Community Recycling Initiatives, marking an important step towards strengthening waste separation and recycling at community level.\n\n The initiative, which was officially launched this week, introduces dedicated sorting bins where residents can bring selected recyclable materials for collection and onward processing by local recyclers.\n\nThe aim is to recover valuable materials, reduce the amount of waste sent to landfill, and make recycling more accessible to communities.\n\n♻️ What can residents recycle at the centre?\n\nThe designated bins are intended for the collection of:\n\n- 🔋 Batteries\n- ♻️ Selected types of plastics, including PET plastic bottles\n- 🔩 Metals\n- 💻 Electronic waste (e-waste)\n- 🥫 Aluminium and other cans\n- 🍾 Glass drinking bottles\n\nThe initiative is co-led by the ISLANDS Project (UNDP Seychelles) and IslandPlas Project (IUCN) in collaboration with the Ministry of Environment, Climate, Energy and Natural Resources (#mecenr), the Landscape and Waste Management Agency (LWMA).\nIt is supported by local recycling partners: Metaluco, Brikole, Precious Plastic and DeRecycler, who play an important role in ensuring that collected materials can be recovered and put to further use.\n\n🌱 A shared responsibility\n\nThe launch of SCRI in Anse Aux Pins is a starting point for bringing recycling closer to residents and encouraging more responsible waste-management practices. Its success will depend on community participation and the proper separation of recyclable materials.\nResidents are encouraged to make use of the facility and help keep valuable resources out of our landfill.\nFollow for more updates about similar initiatives in Seychelles and how you can also contribute! \n#mecenr #islandsproject #recycling #wastemanagement",
+          "publishedAt": "2026-10-30T07:42:39",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1441220624861679&id=100069212649823",
+          "category": "Environment & Oceans"
+        },
+        {
+          "publicationId": "cmvzwjewn161y01md3nwr7u8q",
+          "rawId": 31192,
+          "title": "",
+          "text": "Recycling project puts waste separation into residents’ hands\n\nby T. Dennis \n\nRather than sending everything to the landfill, residents of Anse Aux Pins will have a new way to separate and dispose of a range of recyclable materials through a community recycling initiative launched at the district’s community centre on Tuesday.\n\nFor full context and detailed reporting, read the complete article in today’s edition. Subscribe by calling +248 4290999 or email us at sales@today.sc",
+          "publishedAt": "2026-10-29T15:55:24",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1755544793245425&id=100063697624301",
+          "category": "Environment & Oceans"
+        },
+        {
+          "publicationId": "cmw01x55j1foh01mdeboco11j",
+          "rawId": 23675,
+          "title": "",
+          "text": "🔴 𝐑𝐞𝐩𝐨𝐫𝐭𝐚𝐳: Anse Aux Pins in vin premye distrikt pou ofisyelman lans en linisyativ pour fer resiklaz dan kominote.\nResaman bann bin spesyal ki pou servi pour triy salte ti ganny devwale.",
+          "publishedAt": "2026-11-02T20:18:02",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1729111222557140&id=100063748354217",
+          "category": "Environment & Oceans"
+        },
+        {
+          "publicationId": "cmwcv6co235tx01rwvxy3ci6q",
+          "rawId": 30416,
+          "title": "",
+          "text": "♻️ Anse Aux Pins leads the ay as first district to launch the Seychelles community recycling initiatives \n\n#AnseAuxPins has become the first district in Seychelles to officially launch the Seychelles Community Recycling Initiatives, marking an important step towards strengthening waste separation and recycling at community level.\n\n The initiative, which was officially launched this week, introduces dedicated sorting bins where residents can bring selected recyclable materials for collection and onward processing by local recyclers.\n\nThe aim is to recover valuable materials, reduce the amount of waste sent to landfill, and make recycling more accessible to communities.\n\n♻️ What can residents recycle at the centre?\n\nThe designated bins are intended for the collection of:\n\n- 🔋 Batteries\n- ♻️ Selected types of plastics, including PET plastic bottles\n- 🔩 Metals\n- 💻 Electronic waste (e-waste)\n- 🥫 Aluminium and other cans\n- 🍾 Glass drinking bottles\n\nThe initiative is spearheaded by the ISLANDS Project, in collaboration with the Ministry of Environment, Climate, Energy and Natural Resources (#mecenr), the Landscape and Waste Management Agency (LWMA).\n\nIt is supported by local recycling partners: Islandplas, Metaluco, Brikole, Precious Plastic and DeRecycler, who play an important role in ensuring that collected materials can be recovered and put to further use.\n\n🌱 **A shared responsibility**\n\nThe launch of SCRI in Anse Aux Pins is a starting point for bringing recycling closer to residents and encouraging more responsible waste-management practices. Its success will depend on community participation and the proper separation of recyclable materials.\n\nResidents are encouraged to make use of the facility and help keep valuable resources out of our landfill.\n\nFollow for more updates about similar initiatives in Seychelles and how you can also contribute! \n\n#mecenr #islandsproject #recycling #wastemanagement #circulareconomy #seychelles\nIUCN GEF ISLANDS",
+          "publishedAt": "2026-10-30T07:43:58",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=4461628114153172&id=100069212649823",
+          "category": "Environment & Oceans"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_128a02918ffd46b7dcd3d292ffd61e38",
+      "title": "Industry Minister (Geralda Desaubin) Acknowledges Shortcomings, Sets Priorities",
+      "description": "In an address published on 6 November 2026, the Minister for Industry and Enterprise (Geralda Desaubin) marked one year in office by acknowledging unmet expectations and continuing difficulties for businesses and entrepreneurs in Seychelles. She set priorities for her second year, including strengthening local production, supporting entrepreneurs, and improving accountability and performance within the Ministry and its agencies.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmw6a9l2i0x5301rwbc9og49e",
+          "rawId": 17641,
+          "title": "",
+          "text": "ONE YEAR IN OFFICE.\nREFLECTING ON THE JOURNEY, TAKING RESPONSIBILITY AND MOVING FORWARD\n\nAddress by Ms. Geralda Desaubin, Minister for Industry and Enterprise\n\nGood Day All,\n\nToday marks one year since I took the oath of office as the Minister for Industry and Enterprise. One year. Twelve months of responsibility, challenges, decisions, opportunities, lessons and above all, service to our country.\n\nToday, I do not want to simply celebrate an anniversary or present a list of achievements. I want to take this opportunity to reflect honestly on the journey so far, acknowledge where we have made progress, recognise where we could have done better and share my vision and determination for the road ahead.\n\nWhen I assumed this responsibility, I understood that I was taking on a Ministry with an important mandate. Industry and enterprise are not simply about businesses, factories, products or statistics. They are about people. They are about livelihoods, employment, opportunities, innovation and the economic future of Seychelles.\n\nEvery small business represents someone's dream. Every local manufacturer represents an opportunity to create value within our country. Every entrepreneur who takes a risk represents the courage and determination that we need to build a stronger economy. And that is the responsibility I accepted.\n\nOver the past year, we have worked to strengthen the visibility and recognition of Seychelles-made products, promote our local businesses and create greater opportunities for our entrepreneurs. Through initiatives such as Seychelles Made, we have continued to champion local production and encourage our people to appreciate, support and take pride in products made in Seychelles.\n\nOur participation in international platforms, including the China International Import Expo, is part of that ambition. We want Seychelles to be recognised not only as a beautiful tourism destination, but also as a country capable of producing quality products, developing innovative enterprises and contributing meaningfully to international trade.\n\nThese are important steps. But I want to make one thing very clear. I do not measure success simply by the number of meetings we attend, the events we organise, the photographs we take or the international platforms we participate in. Real success must be measured by the difference we make in people's lives and in the performance of our businesses.\n\nAre our businesses growing? Are we creating more opportunities for local producers? Are we making it easier for entrepreneurs to establish and expand their businesses? Are we becoming more competitive? Are we creating employment? Are our local products reaching new markets? These are the questions that must guide our work.\n\nAnd this brings me to the other side of leadership. Acknowledging what has not gone as well as we would have wanted.\n\nI will not stand before you today and pretend that everything has been perfect. It has not. There are expectations that we have not yet met. There are initiatives that have taken longer than anticipated. There are businesses that continue to face difficulties, entrepreneurs who feel that they need more support and challenges within our business environment that still require urgent attention. There are areas where we could have moved faster, communicated better and delivered more effectively. I acknowledge that.\n\nI do not see acknowledging our shortcomings as a weakness. I see it as an essential part of responsible leadership.\n\nWe must be honest with ourselves if we genuinely want to improve. We cannot continue doing things simply because that is how they have always been done. We must be prepared to question existing practices, challenge inefficiencies, make difficult decisions and embrace new ways of working. I also recognise that government cannot solve every challenge overnight. But that must never become an excuse for inaction or a reason to lower our expectations. Our people expect results, and rightly so. Our entrepreneurs do not simply want to hear about policies. They want to experience the benefits of those policies. They want an enabling environment, timely support, access to opportunities and practical solutions to the challenges they face. And we must remain focused on delivering these.\n\nAs I begin my second year in office, my message is simple. We must move from promises to performance, from planning to implementation and from activities to measurable results.\n\nMy priorities moving forward are clear.\n\nFirst, we must strengthen local production. Seychelles cannot continue to depend so heavily on imported goods without making a determined effort to develop the productive capacity we have at home. We may not be able to produce everything, but we can certainly do more with the resources, skills and talent available to us.\n\nSecond, we must empower our local entrepreneurs. Our small businesses must not be treated as an afterthought. They are an essential part of our economy. We must create an environment in which they can grow, innovate, access markets and become more competitive.\n\nThird, we must strengthen the Seychelles Made initiative. I want us to see more genuine Seychelles-made products, greater recognition of our local producers and more opportunities for these products to reach regional and international markets.\n\nFourth, we must encourage investment, innovation and technology. We need to modernise our industries, improve productivity, embrace sustainable production and attract partnerships that bring real value to Seychelles.\n\nFifth, we must invest in our people. Our young people must see entrepreneurship and industrial development as real opportunities for their future. We must encourage them to think creatively, develop their skills, take calculated risks and become job creators rather than only job seekers.\n\nAnd finally, we must strengthen accountability and performance within our Ministry and agencies. Every institution under this Ministry must understand its responsibility, deliver on its mandate and demonstrate the results expected of it. I expect commitment, professionalism, urgency and accountability.\n\nTo our business community, I want you to know that you matter. Your concerns matter. Your challenges matter. Your ideas matter. You are not simply recipients of government support, you are partners in building our economy. I encourage you to continue engaging with us, challenging us constructively and sharing your ideas. But I also encourage you to believe in your own potential. Do not underestimate what a Seychellois business can achieve. We must stop looking at the size of our country as a limitation and start recognising the opportunities that exist beyond our borders.\n\nTo our manufacturers, producers, entrepreneurs and businesswomen and businessmen, I want to see you grow. I want to see you become more ambitious. I want to see you compete internationally and proudly represent Seychelles.\n\nTo the staff of the Ministry and our agencies, I thank you for your work throughout this first year. But let me also say this: our second year must demand even more from us. We must work together, communicate better, take ownership of our responsibilities and remain focused on delivering for the people we serve.\n\nI also want to make a personal commitment. I will continue to listen, even when the feedback is difficult. I will continue to engage, even when the discussions are uncomfortable. I will continue to make decisions in the best interest of the sector and our country, even when those decisions are not always popular. I will not claim to have all the answers, but I will remain committed to finding solutions. I will not promise that every challenge will disappear, but I will promise that we will continue working to address them. And I will not pretend that the journey will always be easy, because meaningful development requires patience, courage, consistency and determination.\n\nOne year in office has taught me that leadership is not about having all the answers. It is about having the courage to confront the questions, the humility to learn from mistakes and the determination to keep moving forward. I am proud of the progress we have made, but I am equally conscious of the work that remains.\n\nI do not want to be remembered for simply occupying a ministerial office. I want our work to leave a meaningful and lasting impact on the development of Seychelles. I want us to build an Industry and Enterprise sector that creates opportunities, strengthens livelihoods, encourages innovation and contributes to a more diversified and resilient economy.\n\nSo today, I celebrate the journey, acknowledge the lessons, take responsibility for the shortcomings and renew my commitment to the work ahead.\n\nTo everyone who has supported us, challenged us, encouraged us and walked alongside us during this first year, thank you. We may not have achieved everything we set out to do, but we have an opportunity to do more, to do better and to deliver stronger results.\n\nOne year down. The work is far from finished. The next chapter must be defined not by what we say, but by what we deliver. Let us move forward with renewed energy, greater ambition, stronger collaboration and commitment to Seychelles.\n\nThank you, and may God continue to bless Seychelles🇸🇨",
+          "publishedAt": "2026-11-06T13:17:37",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1152451213840230&id=100072260865793",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_68ce6c1738a85bc41657ad1a386568fe",
+      "title": "Maldives and Seychelles Reaffirm Stronger Climate Action Commitment",
+      "description": "Maldives and Seychelles reaffirmed their commitment to stronger climate action at COP31, according to the publication. The report was published on 11 November 2026; it provides no details about specific measures or implementation.",
+      "category": "Environment & Oceans",
+      "publications": [
+        {
+          "publicationId": "cmwcvs8gk35xs01rwj4dv8oof",
+          "rawId": 1994,
+          "title": "",
+          "text": "Maldives, Seychelles reaffirm commitment to stronger climate action at COP31 https://t.co/BNNivxB368",
+          "publishedAt": "2026-11-11T13:24:49",
+          "source": "Twitter",
+          "url": "https://x.com/Gadhdhoo_rado/status/2120462745636348359",
+          "category": "Environment & Oceans"
+        },
+        {
+          "publicationId": "cmwcvsgur35xu01rw3gm9wtbo",
+          "rawId": 1992,
+          "title": "",
+          "text": "Maldives, Seychelles reaffirm commitment to stronger climate action at COP31 https://t.co/UNpAtiaXX7",
+          "publishedAt": "2026-11-11T13:24:55",
+          "source": "Twitter",
+          "url": "https://x.com/Gadhdhoo_rado/status/2120462768864481606",
+          "category": "Environment & Oceans"
+        },
+        {
+          "publicationId": "cmwcvv1e635y001rwjahgxk6f",
+          "rawId": 2252,
+          "title": "",
+          "text": "މޫސުމީ މައްސަލަތަކުގައި ސީޝެލްސްއާ ގުޅިގެން މަސައްކަތްކުރުމަށް މަޝްވަރާކޮށްފި، ކޮޕް31 ގެ ހަވާސާގައި ރައީސް ބައްދަލުކުރެއްވީ އެ ގައުމުގެ ނައިބު ރައީސްއާ\n\nhttps://voice.mv/story/11-11-2026-1256-moosumee-mahssala-thakugai-seychelles-aa-gulhigen-masahkkai-kuran-mashva-kohffi",
+          "publishedAt": "2026-11-11T11:42:38",
+          "source": "Telegram",
+          "url": "https://t.me/VoiceMaldives/13624",
+          "category": "Environment & Oceans"
+        },
+        {
+          "publicationId": "cmwcvvf3k35y801rw13jdhkpq",
+          "rawId": 2258,
+          "title": "",
+          "text": "Maldives and Seychelles Strengthen Climate Advocacy at COP31 Leaders’ Meeting\nhttps://en.maaldif.com/15299/",
+          "publishedAt": "2026-11-11T11:40:47",
+          "source": "Telegram",
+          "url": "https://t.me/Noosthakun24/60030",
+          "category": "Environment & Oceans"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_a81ee16689cb6830ebd5879eb7718ca6",
+      "title": "Seychelles Seeks Grenada's Support for Venn's Town (Seychelles) Bid",
+      "description": "The Seychelles Times reported on 2 November 2026 that Seychelles was seeking Grenada's support for the Venn's Town (Seychelles) World Heritage bid. It said Seychelles' Minister for Foreign Affairs and the Diaspora (Barry Faure) met Grenada's Minister of Tourism, Creative Economy and Culture (Senator Adrian Thomas) on the margins of the Commonwealth Heads of Government Meeting 2026 in Antigua and Barbuda; the meeting date and any outcome are unspecified.",
+      "category": "Tourism & Hospitality",
+      "publications": [
+        {
+          "publicationId": "cmvzfi0pi132k01mds2n85992",
+          "rawId": 26731,
+          "title": "",
+          "text": "Seychelles and Grenada Discuss Strengthening Bilateral Cooperation\n\nMinister for Foreign Affairs and the Diaspora, Mr Barry Faure, met with Grenada’s Minister of Tourism, Creative Economy and Culture, Senator Adrian Thomas, on the margins of the Commonwealth Heads of Government Meeting (CHOGM) 2026 being held in Antigua and Barbuda.\n\nThe discussions focused on the importance of strengthening solidarity and cooperation among Small Island Developing States (SIDS), particularly in promoting cultural heritage. The Ministers exchanged views on the common vulnerabilities faced by their respective countries including their dependence on exports and tourism and the impact of external shocks and geopolitical developments on tourism flows.\n\nDuring the meeting, Minister Faure sought Grenada’s support for Seychelles’ efforts to secure UNESCO World Heritage recognition for Venn’s Town, an important national historical site and tourist attraction. He highlighted the site's significant cultural and ecological value to Seychelles, noting that its recognition would complement the country’s two existing UNESCO World Heritage Sites: Aldabra Atoll and Vallée de Mai, located on Praslin Island.\n\nFollow the below link to read more:\nhttps://mfa.gov.sc/news/seychelles-and-grenada-discuss-strengthening-bilateral-cooperation/",
+          "publishedAt": "2026-11-01T18:07:02",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1103863522653469&id=100090894933365",
+          "category": "Tourism & Hospitality"
+        },
+        {
+          "publicationId": "cmvzy596j177y01mdcqwsp7am",
+          "rawId": 25795,
+          "title": "Seychelles Seeks Grenada Support for Venn’s Town World Heritage Bid",
+          "text": "Seychelles Seeks Grenada Support for Venn’s Town World Heritage Bid\n<p>Minister for Foreign Affairs and the Diaspora Mr Barry Faure met Grenada's Minister of Tourism, Creative Economy and Culture, Senator Adrian Thomas, on the margins of the Commonwealth Heads of Government Meeting 2026 in Antigua and Barbuda.</p>\n<p>The post <a href=\"https://theseychellestimes.com/2026/11/02/seychelles-seeks-grenada-support-for-venns-town-world-heritage-bid/\">Seychelles Seeks Grenada Support for Venn&#8217;s Town World Heritage Bid</a> appeared first on <a href=\"https://theseychellestimes.com\">The Seychelles Times</a>.</p>",
+          "publishedAt": "2026-11-02T06:36:52",
+          "source": "RSS",
+          "url": "https://theseychellestimes.com/2026/11/02/seychelles-seeks-grenada-support-for-venns-town-world-heritage-bid/",
+          "category": "Tourism & Hospitality"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_0a287d66b21b1f62519ca359a8f085ce",
+      "title": "INS Tarasa Transferred to Seychelles Coast Guard",
+      "description": "On 7 November 2014, the Indian Navy decommissioned the Trinkat-class patrol vessel INS Tarasa and transferred it to the Seychelles Coast Guard, where it was rechristened PS Constant. The publication recalls the transfer in a #OnThisDay post.",
+      "category": "Safety & Security",
+      "publications": [
+        {
+          "publicationId": "cmw77nfv5189d01rwlotcrus5",
+          "rawId": 13857,
+          "title": "",
+          "text": "#OnThisDay 07 Nov 2014, INS Tarasa, a Trinkat-class patrol vessel, was decommissioned from the @indiannavy and transferred to the Seychelles Coast Guard and rechristened PS Constant. https://t.co/x9hjpyFBTF",
+          "publishedAt": "2026-11-07T17:25:26",
+          "source": "Twitter",
+          "url": "https://x.com/MHSofIndia/status/2119073748905340972",
+          "category": "Safety & Security"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_25c1d73babeca28599ea75160239bebc",
+      "title": "Cristina Kirchner Allegedly Stopped in Seychelles",
+      "description": "A Twitter post published on 12 November 2026 alleges that Cristina Kirchner stopped in Seychelles while returning to Argentina to “do the same,” in a context of updating bank accounts. The post does not give a date for the alleged stop or identify a specific account or transaction.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmwcvnu3l35x701rwa0crujjc",
+          "rawId": 167,
+          "title": "",
+          "text": "@freddyzur Esa rata lo que va es a actualizar sus cuentas en los bancos turcos.  Cuando Mortadelo quedó frío en la Habana, la ladrona Cristina Kirchner viajó a la Habana y de allí tomó un vuelo rumbo a Asia y cuando regresaba a la Argentina detuvo el avión en Seychelles para hacer lo mismo",
+          "publishedAt": "2026-11-12T02:14:34",
+          "source": "Twitter",
+          "url": "https://x.com/pcruzb/status/2120656458748440659",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_2a270870dbb9984f7c545f82ab683f5c",
+      "title": "Heavy Rains Flood Several Areas in a District",
+      "description": "The post says heavy rains caused flooding in several areas across an unnamed district on 15 October 2026. On 16 October, the speaker said they visited the affected locations and would raise concerns with relevant departments, thanking the District Administration Office and LWMA for their response efforts.",
+      "category": "Weather & Natural Events",
+      "publications": [
+        {
+          "publicationId": "cmwa7wfbn1t2x01rw545n3das",
+          "rawId": 41661,
+          "title": "",
+          "text": "Last night’s heavy rains caused flooding in several areas across the district. Today, I visited all affected locations to assess the situation firsthand and will be raising these concerns with the relevant departments.\nMy sincere thanks to everyone involved in the response efforts, especially the District Administration Office and LWMA, for their dedication and swift action in helping to mitigate the impact of the floods. #CommunityFirst #WorkingTogether #FloodResponse",
+          "publishedAt": "2026-10-16T21:40:26",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122127459098949450&id=61578483510222",
+          "category": "Weather & Natural Events"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_db6330d303562f3eb3bea9d8bb8ad08f",
+      "title": "Crypto-Asset Business Allegedly Bases Operations in Seychelles",
+      "description": "A Twitter post published on 11 November 2026 claims that an unnamed management team based its crypto-asset operations in Seychelles because local laws are more lenient, partly to avoid warnings for operating as an unregistered crypto-asset business. The post does not identify the business or establish that it was unregistered.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmwcvjyxu35wv01rwgsd9nwcl",
+          "rawId": 2109,
+          "title": "",
+          "text": "@vinoyangno1 @comprdata The management team is being overly cautious, partly to avoid receiving warnings for operating as an unregistered crypto-asset business. That is precisely why they have based their operations in the Republic of Seychelles 🇸🇨, where the laws are more lenient.",
+          "publishedAt": "2026-11-11T12:35:24",
+          "source": "Twitter",
+          "url": "https://x.com/bomujin/status/2120450310061850671",
+          "category": "Public Complaints"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_4fa329e403194dafaf11668fea7709ff",
+      "title": "Bel Ombre (Seychelles) Tourism Plan Faces Coastal Development Criticism",
+      "description": "A Facebook publication dated 1 November 2026 criticises the Bel Ombre (Seychelles) tourism master plan, prepared by the Ministry of Housing and Lands, arguing that its strategic environmental assessment (SEA) comes too late to reconsider core land-use choices. The plan covers about 90 arpents and proposes three hotel sites totaling more than 53 arpents, while reserving a public beach of under 10 arpents; the publication raises concerns about coastal habitats, public access and the assessment’s independence.",
+      "category": "Environment & Oceans",
+      "publications": [
+        {
+          "publicationId": "cmvzgbfbk135101md1b4zk7y7",
+          "rawId": 27472,
+          "title": "",
+          "text": "Bel Ombre : trois nouveaux hôtels, mais quelle vision du territoire ?\n\nÀ ce rythme, ne restera-t-il bientôt que la plage publique située à côté du village de Bel Ombre comme dernier espace littoral véritablement accessible à tous dans cette partie de l’île ?\n\nLe nouveau Master Plan touristique de Bel Ombre, préparé par le ministère du Logement et des Terres, concerne environ 90 arpents de terres de l’État, entre la limite est de l’hôtel SO Sofitel et la rivière Jacotet. Il comprend 58 arpents de terres de l’État non engagées et 32 arpents de Pas Géométriques et de Land Settlement Land, dont la déproclamation et le transfert vers le ministère du Logement et des Terres sont envisagés pour permettre la réalisation du plan. Quelque 38 planteurs sont également concernés par ces terres.\n\nAprès exclusion d’environ 16 arpents pour les reculs et autres contraintes, le plan porte sur quelque 74 arpents. Il prévoit trois sites hôteliers totalisant plus de 53 arpents, deux parcelles destinées à des activités touristiques, identifiées sur le plan comme des villas ou appartements, une parcelle commerciale, des parkings et une plage publique de moins de 10 arpents dans la zone la plus instable et humide. \n\nIl faut saluer la décision du ministère de l’Environnement de soumettre l’ensemble de ce Master Plan à une Évaluation Environnementale Stratégique (SEA), conformément à l’Environment Act 2024. C’est une avancée importante : plutôt que d’évaluer les impacts d’un hôtel après l’autre, il s’agit enfin d’examiner les conséquences d’un plan d’aménagement dans son ensemble. Les termes de référence prévoient notamment l’analyse des impacts cumulés, l’identification des zones sensibles et la comparaison de plusieurs scénarios, y compris celui de ne rien construire.\n\nMais pourquoi faut-il attendre qu’un plan prévoyant une telle artificialisation soit déjà élaboré pour se poser ces questions fondamentales ? Cette SEA donne quelque peu le sentiment d’un rattrapage de dernière minute. Une évaluation stratégique devrait précisément intervenir en amont, avant que les grandes orientations foncières et touristiques ne soient posées.\n\nD’autant que les termes de référence reconnaissent eux-mêmes la vulnérabilité du site : dunes et plage de Beau Champ classées zone écologiquement sensible, zones humides, drains naturels, risques d’inondation liés à la rivière Jacotet et terrains situés à moins de deux mètres au-dessus du niveau de la mer. Le site se trouve également dans la zone de transition de la Réserve de biosphère UNESCO des Gorges de la Rivière Noire–Bel Ombre. Selon les projections du BRGM, le recul du trait de côte pourrait atteindre, selon les secteurs, entre 10 et 70 mètres d’ici 2100.\n\nPourquoi, face à de telles réalités, l’artificialisation reste-t-elle notre point de départ ? Le site est notamment considéré comme adapté au tourisme parce que des hôtels et des infrastructures existent déjà à proximité. Mais depuis quand le fait d’avoir déjà construit justifie-t-il de construire davantage ? C’est précisément cette logique d’accumulation qui nous a conduits à la situation actuelle.\n\nEt surtout, où cette logique s’arrêtera-t-elle ? Le Master Plan concerne une portion bien délimitée, entre le SO Sofitel et la rivière Jacotet. Mais qu’en sera-t-il des autres espaces encore non construits, notamment de la portion littorale située de l’autre côté du SO Sofitel, vers les établissements hôteliers existants ? Allons-nous progressivement voir ces dernières parcelles attribuées, les unes après les autres, pour de nouveaux hôtels, des villas ou d’autres développements immobiliers ? À quel moment déciderons-nous que certains espaces doivent tout simplement rester libres de toute construction ?\n\nAutre rappel : Le dossier KPMM, toujours à Bel Ombre, devrait également nous interpeller. Un bail avait été accordé pour un projet hôtelier sous l'ancien régime qui n’a jamais vu le jour, avec des arriérés(non paiement du bail) qui dépasseraient 43 millions de roupies. Le ministre du Logement et des Terres avait évoqué plusieurs options, dont la résiliation ou la reprise du bail. Le Premier ministre avait lui-même qualifié ce dossier de « den of corruption and mismanagement ». Où en sommes-nous aujourd’hui ? Si ces terres sont reprises, quelle sera leur destination ? Seront-elles enfin réexaminées dans une perspective d’intérêt public, ou simplement proposées à un autre promoteur ? Ce dossier illustre précisément pourquoi nous devons repenser notre politique d’attribution et de gestion des terres publiques sur le littoral.\n\nNous saluons donc la SEA, mais elle doit pouvoir remettre en question les orientations mêmes du Master Plan, et non simplement chercher à en atténuer les impacts. Elle doit examiner de véritables alternatives : conservation des espaces naturels, restauration des dunes et des zones humides, espaces publics, activités communautaires et tourisme moins intensif, tout en tenant compte des planteurs et des habitants qui utilisent déjà ces terres.\n\nIl faut également tirer les leçons du passé. Des plans d’aménagement et des allocations foncières ont déjà avancé sans véritable évaluation stratégique d’ensemble. Si notre politique d’aménagement reste fondée sur toujours plus de constructions, qu’est-ce qui empêchera demain de revenir à des allocations de parcelles au coup par coup, sans Master Plan et sans évaluation des impacts cumulés ? Une telle approche reviendrait à fragmenter les décisions pour éviter de poser la question essentielle : quelle capacité notre littoral a-t-il encore à accueillir de nouveaux développements ?\n\nEnfin, les termes de référence indiquent que le financement de la SEA devrait être assuré par les promoteurs potentiels. Il faudra neanmoins rester vigilant sur les questions d'indépendance de l’évaluation et la transparence du processus devront être pleinement garanties meme si ministère de l’Environnement en conserve le pilotage.\n\nLa question dépasse donc largement ces 90 arpents. C’est l’avenir de tout le littoral de Bel Ombre, et au delà qui mérite d’être pensé dans son ensemble. Pourquoi continuer à envisager de nouvelles affectations foncières sans avoir défini une vision cohérente de ce qui doit être protégé, restauré, partagé ou éventuellement aménagé ?\n\nUne SEA ne doit pas servir à justifier des choix déjà envisagés, mais à déterminer si ces choix sont réellement souhaitables. Et peut-être est-il temps d’admettre que, sur certaines des dernières portions non construites de notre littoral, le meilleur projet d’aménagement est précisément de ne pas construire.",
+          "publishedAt": "2026-11-01T08:26:07",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1451946077078925&id=100067906393764",
+          "category": "Environment & Oceans"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_bf49a6d27c4793763bcec94ee89ff5ca",
+      "title": "Anse Boileau (Seychelles) Church After Bad Weather",
+      "description": "The post refers to the condition of the church in Anse Boileau (Seychelles) after bad weather on the evening of 19 October 2026. It gives no details about damage or other impacts.",
+      "category": "Weather & Natural Events",
+      "publications": [
+        {
+          "publicationId": "cmvzh048f137e01mda3hn9snh",
+          "rawId": 39181,
+          "title": "",
+          "text": "Leta legliz Anse Boileau apre movetan yer swar",
+          "publishedAt": "2026-10-20T14:44:40",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=1713676070767322&id=100063748354217",
+          "category": "Weather & Natural Events"
+        }
+      ]
+    },
+    {
+      "storyId": "llm_bbee6b33f660377ca184155c09a25c36",
+      "title": "Today Publisher Criticizes Seychelles Nation Agency's Journalism",
+      "description": "A Facebook post dated 24 October 2026 says “Today Publisher” showed Seychelles Nation Agency how to write true articles, criticizing its journalism. No specific article or alleged inaccuracy is identified.",
+      "category": "Public Complaints",
+      "publications": [
+        {
+          "publicationId": "cmw8mk7n31ho401rw2um4w63m",
+          "rawId": 36416,
+          "title": "",
+          "text": "Greetings bann zournalist sesel,\n\"Today Publisher\" ozordi in montre \"Seychelles Nation Agency\" kimanyer i devret ekrir vre lartik",
+          "publishedAt": "2026-10-24T06:36:29",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=122181697382971705&id=61579151174724",
+          "category": "Public Complaints"
+        }
+      ]
+    }
+  ]
+}

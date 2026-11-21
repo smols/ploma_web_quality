@@ -1,0 +1,25 @@
+[Unit]
+Description=Story Group Review web application
+After=network.target
+
+[Service]
+Type=simple
+User=ploma
+Group=ploma
+WorkingDirectory=/opt/ploma/current
+EnvironmentFile=/etc/ploma/web_app.env
+Environment=HOSTNAME=127.0.0.1
+Environment=PORT=3000
+Environment=NODE_OPTIONS=--max-old-space-size=320
+ExecStart=/opt/ploma/node/bin/node /opt/ploma/current/server.js
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+ReadWritePaths=/opt/ploma/shared/data
+
+[Install]
+WantedBy=multi-user.target

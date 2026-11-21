@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "seish-october-2.3.10-raw-quality-50",
+  "evaluationType": "quality",
+  "title": "Seychelles · prompt 2.3.10 · качество сюжетов · 50 случайных сюжетов",
+  "description": "Проверка корректности публикаций, назначенных в сюжет промптом 2.3.10.",
+  "datasetId": "seish-october-export-2026-11-12",
+  "version": "2.3.10",
+  "runId": "2026-11-16-raw-story-classification",
+  "systemName": "gpt-6-luna",
+  "sourceFile": "quality.json",
+  "promptSha256": "5debd0f19414ae4821d781aa30504ce10007cf4986ed9c6ccfa35d5be6030a5c",
+  "sourceDatabase": "data_seish_october_ds20261112_p2_3_10_raw_classify",
+  "createdAt": "2026-11-19T04:12:17.484615+00:00",
+  "runStatus": "partial",
+  "scopeNote": "Равновероятно выбрано 50 из 1098 сюжетов с назначенными публикациями; в выгрузку включены все 111 связанные публикации. Seed: 20261119. Run частичный: 1 ошибка, 2 пустые записи; оценка проверяет только публикации, уже назначенные в сюжет, и не ищет пропущенные публикации.",
+  "counts": {
+    "availableStories": 1098,
+    "availablePublications": 2565,
+    "stories": 50,
+    "publications": 111,
+    "materializedRecords": 2565,
+    "irrelevantRecords": 844,
+    "failedRecords": 1,
+    "skippedEmptyRecords": 2,
+    "skippedSourceIrrelevantRecords": 46669,
+    "sampleSeed": 20261119
+  }
+}

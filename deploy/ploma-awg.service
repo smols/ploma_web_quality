@@ -1,0 +1,20 @@
+[Unit]
+Description=AmneziaWG exit tunnel for AI egress namespace
+Requires=ploma-egress-netns.service
+After=ploma-egress-netns.service
+Before=ploma-vpn-proxy.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+Environment=WG_QUICK_USERSPACE_IMPLEMENTATION=/opt/ploma/amneziawg-go
+NetworkNamespacePath=/run/netns/ploma-egress
+ExecStart=/usr/local/bin/awg-quick up awg0
+ExecStartPost=/usr/local/sbin/ploma-awg-routes up
+ExecStop=/usr/local/bin/awg-quick down awg0
+ExecStopPost=/usr/local/sbin/ploma-awg-routes down
+TimeoutStartSec=90
+TimeoutStopSec=30
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,14 @@
+[Unit]
+Description=Isolated network namespace for Amnezia egress
+After=network-online.target
+Wants=network-online.target
+Before=ploma-awg.service ploma-vpn-proxy.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/local/sbin/ploma-egress-netns up
+ExecStop=/usr/local/sbin/ploma-egress-netns down
+
+[Install]
+WantedBy=multi-user.target

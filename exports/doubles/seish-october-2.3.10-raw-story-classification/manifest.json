@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "seish-october-2.3.10-raw-story-classification",
+  "evaluationType": "doubles",
+  "title": "Seychelles · prompt 2.3.10 · raw story classification",
+  "description": "Стратифицированная выборка raw-пар для сравнения назначения сюжета промптом и человеческой разметки.",
+  "datasetId": "seish-october-export-2026-11-12",
+  "version": "2.3.10",
+  "runId": "2026-11-16-raw-story-classification",
+  "systemName": "gpt-6-luna",
+  "sourceFile": "pairs.csv",
+  "promptSha256": "5debd0f19414ae4821d781aa30504ce10007cf4986ed9c6ccfa35d5be6030a5c",
+  "sourceDatabase": "data_seish_october_ds20261112_p2_3_10_raw_classify",
+  "createdAt": "2026-11-19T03:38:04.067081+00:00",
+  "runStatus": "partial",
+  "scopeNote": "В run учтено 2,565 назначений сюжета из 3,410 записей с исходным relevant=да и непустым текстом: 200 AI-положительных пар из 37,617 возможных и 200 AI-отрицательных пар из 3,250,713 возможных (seed 23102026). Вне выборки: нерелевантные, пустые, ошибочные и ещё не классифицированные записи; исходно нерелевантных записей пропущено 46,669. F1 отражает только эту сбалансированную выборку.",
+  "counts": {
+    "records": 2565,
+    "sourceRelevantNonemptyRecords": 3410,
+    "materializedRecords": 2565,
+    "irrelevantRecords": 844,
+    "skippedSourceIrrelevantRecords": 46669,
+    "failedRecords": 1,
+    "skippedEmptyRecords": 2,
+    "positivePopulationPairs": 37617,
+    "negativePopulationPairs": 3250713,
+    "positiveSamplePairs": 200,
+    "negativeSamplePairs": 200,
+    "pairs": 400,
+    "sampleSeed": 23102026
+  }
+}
