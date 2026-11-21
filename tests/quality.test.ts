@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import { qualitySessionSchema } from "@/lib/quality-session-schema";
 import { calculateQualityMetrics } from "@/lib/quality-metrics";
-import { createQualitySession, qualityJudgmentKey, setQualityLabel, setQualityNote, touchQualitySession } from "@/lib/quality-session";
+import { applyQualitySessionPatch, createQualitySession, qualityJudgmentKey, setQualityLabel, setQualityNote, touchQualitySession } from "@/lib/quality-session";
 import type { ImportedQualityCollection } from "@/lib/types";
 
 const imported: ImportedQualityCollection = {
@@ -67,6 +67,31 @@ test("touching a quality session updates its timestamp without changing annotati
   assert.equal(touched.currentStoryId, "story-1");
   assert.deepEqual(touched.judgments, session.judgments);
   assert.equal(touched.sessionId, session.sessionId);
+});
+
+test("compact quality patches update annotations and the active story without replacing source data", () => {
+  const session = createQualitySession(imported, "Reviewer");
+  const judgmentKey = qualityJudgmentKey("story-1", "pub-1");
+  const patched = applyQualitySessionPatch(session, {
+    sessionId: session.sessionId,
+    currentStoryId: "story-1",
+    judgments: [{ key: judgmentKey, humanLabel: "belongs", note: "Confirmed" }],
+  });
+
+  assert.equal(qualitySessionSchema.safeParse(patched).success, true);
+  assert.equal(patched.currentStoryId, "story-1");
+  assert.equal(patched.judgments[judgmentKey].humanLabel, "belongs");
+  assert.equal(patched.judgments[judgmentKey].note, "Confirmed");
+  assert.deepEqual(patched.items, session.items);
+  assert.deepEqual(patched.stories, session.stories);
+});
+
+test("compact quality patches reject judgments outside the saved session", () => {
+  const session = createQualitySession(imported, "Reviewer");
+  assert.throws(() => applyQualitySessionPatch(session, {
+    sessionId: session.sessionId,
+    judgments: [{ key: "missing-judgment", humanLabel: "belongs" }],
+  }), /Оценка публикации отсутствует/);
 });
 
 test("quality session schema still accepts sessions created before story position tracking", () => {

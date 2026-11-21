@@ -24,6 +24,51 @@ export function touchQualitySession(
   return { ...session, currentStoryId, updatedAt: new Date().toISOString() };
 }
 
+export interface QualityJudgmentPatch {
+  key: string;
+  humanLabel?: QualityLabel;
+  note?: string;
+}
+
+export interface QualitySessionPatch {
+  sessionId: string;
+  currentStoryId?: string | null;
+  judgments?: QualityJudgmentPatch[];
+}
+
+export function applyQualitySessionPatch(
+  session: QualityReviewSession,
+  patch: QualitySessionPatch,
+): QualityReviewSession {
+  if (session.sessionId !== patch.sessionId) throw new Error("ID сессии не совпадает.");
+
+  let currentStoryId = session.currentStoryId ?? null;
+  if (patch.currentStoryId !== undefined) {
+    currentStoryId = patch.currentStoryId;
+    if (currentStoryId && !session.stories.some((story) => story.storyId === currentStoryId)) {
+      throw new Error("Текущий сюжет отсутствует в сессии.");
+    }
+  }
+
+  const judgments = { ...session.judgments };
+  const updatedAt = new Date().toISOString();
+  for (const change of patch.judgments ?? []) {
+    const existing = judgments[change.key];
+    if (!existing) throw new Error("Оценка публикации отсутствует в сессии.");
+    if (change.humanLabel === undefined && change.note === undefined) {
+      throw new Error("Пустое изменение оценки.");
+    }
+    judgments[change.key] = {
+      ...existing,
+      ...(change.humanLabel === undefined ? {} : { humanLabel: change.humanLabel }),
+      ...(change.note === undefined ? {} : { note: change.note }),
+      updatedAt,
+    };
+  }
+
+  return { ...session, currentStoryId, judgments, updatedAt };
+}
+
 export function createQualitySession(
   imported: ImportedQualityCollection,
   annotatorName: string,

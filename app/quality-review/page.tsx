@@ -13,6 +13,37 @@ import type {
 } from "@/lib/types";
 
 type QualityFilter = "all" | "pending" | "reviewed";
+type QualityJudgmentPatch = {
+  key: string;
+  humanLabel?: QualityLabel;
+  note?: string;
+};
+type QualitySessionPatch = {
+  sessionId: string;
+  currentStoryId?: string | null;
+  judgments?: QualityJudgmentPatch[];
+};
+
+function mergeQualitySessionPatches(
+  first: QualitySessionPatch | null,
+  next: QualitySessionPatch | null,
+): QualitySessionPatch | null {
+  if (!first) return next;
+  if (!next) return first;
+  if (first.sessionId !== next.sessionId) return next;
+
+  const judgments = new Map<string, QualityJudgmentPatch>();
+  for (const patch of [...(first.judgments ?? []), ...(next.judgments ?? [])]) {
+    judgments.set(patch.key, { ...judgments.get(patch.key), ...patch });
+  }
+  return {
+    sessionId: next.sessionId,
+    ...(Object.hasOwn(next, "currentStoryId")
+      ? { currentStoryId: next.currentStoryId }
+      : Object.hasOwn(first, "currentStoryId") ? { currentStoryId: first.currentStoryId } : {}),
+    ...(judgments.size ? { judgments: [...judgments.values()] } : {}),
+  };
+}
 
 function percent(value: number | null): string {
   return value === null ? "—" : `${(value * 100).toFixed(1)}%`;
@@ -50,6 +81,10 @@ export default function QualityReviewPage() {
   const [storyIndex, setStoryIndex] = useState(0);
   const saveTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const saveQueue = useRef<Promise<void>>(Promise.resolve());
+  const pendingPatch = useRef<QualitySessionPatch | null>(null);
+  const inFlightPatch = useRef<QualitySessionPatch | null>(null);
+  const patchSaveActive = useRef(false);
+  const patchRequestStarted = useRef(false);
   const observedStory = useRef<{ sessionId: string; storyId: string | null } | null>(null);
   const restoredSessionId = useRef<string | null>(null);
   const ignoreNextStoryChange = useRef(false);
@@ -131,15 +166,113 @@ export default function QualityReviewPage() {
     await queuedSave;
   }, [refreshSessions]);
 
-  const updateSession = useCallback((next: QualityReviewSession) => {
+  const flushPendingPatch = useCallback(async (): Promise<boolean> => {
+    if (patchSaveActive.current) {
+      await saveQueue.current;
+      return pendingPatch.current ? flushPendingPatch() : true;
+    }
+    const patch = pendingPatch.current;
+    if (!patch) return true;
+
+    pendingPatch.current = null;
+    inFlightPatch.current = patch;
+    patchSaveActive.current = true;
+    patchRequestStarted.current = false;
+    const save = async () => {
+      setSaveStatus("Сохраняю…");
+      patchRequestStarted.current = true;
+      const response = await fetch("/api/quality-sessions", {
+        method: "PATCH",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify(patch),
+        keepalive: true,
+      });
+      const payload = await response.json() as { error?: string; relativePath?: string };
+      if (!response.ok) throw new Error(payload.error || "Не удалось сохранить разметку.");
+      setSaveStatus(`Сохранено локально · ${payload.relativePath || "JSON"}`);
+      setError("");
+      void refreshSessions();
+    };
+    const queuedSave = saveQueue.current.then(save, save);
+    saveQueue.current = queuedSave.then(() => undefined, () => undefined);
+    try {
+      await queuedSave;
+      return true;
+    } catch (saveError) {
+      pendingPatch.current = mergeQualitySessionPatches(patch, pendingPatch.current);
+      setSaveStatus("Ошибка локального сохранения");
+      setError(saveError instanceof Error ? saveError.message : "Не удалось сохранить разметку.");
+      return false;
+    } finally {
+      inFlightPatch.current = null;
+      patchSaveActive.current = false;
+      patchRequestStarted.current = false;
+    }
+  }, [refreshSessions]);
+
+  const updateSession = useCallback((
+    next: QualityReviewSession,
+    change: Omit<QualitySessionPatch, "sessionId">,
+    immediate = false,
+  ) => {
     setSession(next);
     setSaveStatus("Изменения ожидают сохранения…");
+    pendingPatch.current = mergeQualitySessionPatches(pendingPatch.current, {
+      sessionId: next.sessionId,
+      ...change,
+    });
     if (saveTimer.current) clearTimeout(saveTimer.current);
+    if (immediate) {
+      saveTimer.current = null;
+      void flushPendingPatch();
+      return;
+    }
     saveTimer.current = setTimeout(() => {
       saveTimer.current = null;
-      void persistNow(next);
-    }, 450);
-  }, [persistNow]);
+      void flushPendingPatch();
+    }, 350);
+  }, [flushPendingPatch]);
+
+  const sendPendingPatch = useCallback(() => {
+    if (saveTimer.current) clearTimeout(saveTimer.current);
+    saveTimer.current = null;
+    const patch = mergeQualitySessionPatches(
+      patchRequestStarted.current ? null : inFlightPatch.current,
+      pendingPatch.current,
+    );
+    if (!patch) return;
+    const body = JSON.stringify(patch);
+    if (new Blob([body]).size > 60 * 1024) return;
+    void fetch("/api/quality-sessions", {
+      method: "PATCH",
+      headers: { "content-type": "application/json" },
+      body,
+      keepalive: true,
+    }).catch(() => undefined);
+  }, []);
+
+  useEffect(() => {
+    const onVisibilityChange = () => {
+      if (document.visibilityState === "hidden") sendPendingPatch();
+      else if (pendingPatch.current) void flushPendingPatch();
+    };
+    window.addEventListener("pagehide", sendPendingPatch);
+    document.addEventListener("visibilitychange", onVisibilityChange);
+    return () => {
+      window.removeEventListener("pagehide", sendPendingPatch);
+      document.removeEventListener("visibilitychange", onVisibilityChange);
+      sendPendingPatch();
+    };
+  }, [flushPendingPatch, sendPendingPatch]);
+
+  const navigateAfterSaving = useCallback(async (href: string) => {
+    if (saveTimer.current) clearTimeout(saveTimer.current);
+    saveTimer.current = null;
+    const saved = await flushPendingPatch();
+    await saveQueue.current;
+    if (!saved || pendingPatch.current) return;
+    window.location.href = href;
+  }, [flushPendingPatch]);
 
   function beginSession() {
     if (!pendingData || !annotatorName.trim()) return;
@@ -220,13 +353,13 @@ export default function QualityReviewPage() {
   function labelPublication(story: QualityStoryGroup, publicationKey: string, label: QualityLabel) {
     if (!session) return;
     const key = qualityJudgmentKey(story.storyId, publicationKey);
-    updateSession(setQualityLabel(session, key, label));
+    updateSession(setQualityLabel(session, key, label), { judgments: [{ key, humanLabel: label }] }, true);
   }
 
   function notePublication(story: QualityStoryGroup, publicationKey: string, note: string) {
     if (!session) return;
     const key = qualityJudgmentKey(story.storyId, publicationKey);
-    updateSession(setQualityNote(session, key, note));
+    updateSession(setQualityNote(session, key, note), { judgments: [{ key, note }] });
   }
 
   const activeStory = storiesToReview[storyIndex];
@@ -251,12 +384,9 @@ export default function QualityReviewPage() {
     observedStory.current.storyId = storyId;
     if (!storyId) return;
 
-    if (saveTimer.current) clearTimeout(saveTimer.current);
-    saveTimer.current = null;
     const next = touchQualitySession(session, storyId);
-    setSession(next);
-    void persistNow(next);
-  }, [activeStory?.storyId, persistNow, session]);
+    updateSession(next, { currentStoryId: storyId }, true);
+  }, [activeStory?.storyId, session, updateSession]);
 
   return (
     <main className="shell">
@@ -264,7 +394,7 @@ export default function QualityReviewPage() {
         <div><div className="brandline">Quality · проверка принадлежности</div><h1>Story Group Review</h1><p className="muted">Проверьте, относится ли каждая публикация к сюжету, которому её назначил AI.</p></div>
         <span className="local-pill">Работает на localhost</span>
       </header>
-      <div className="button-row"><a className="button small" href={projectId ? `/projects/${encodeURIComponent(projectId)}` : "/"}>← К проекту</a></div>
+      <div className="button-row"><a className="button small" href={projectId ? `/projects/${encodeURIComponent(projectId)}` : "/"} onClick={(event) => { event.preventDefault(); void navigateAfterSaving(projectId ? `/projects/${encodeURIComponent(projectId)}` : "/"); }}>← К проекту</a></div>
       {error && <div className="error" role="alert">{error}</div>}
 
       {!session ? (
@@ -287,7 +417,7 @@ export default function QualityReviewPage() {
         <section className="panel">
           <div className="panel-head">
             <div><h2>{session.annotatorName} · {session.source.versions.join(", ")}</h2><p className="muted">{session.stories.length} сюжетов · {Object.keys(session.items).length} публикаций · run {session.source.runIds.join(", ")}</p></div>
-            <div className="button-row"><span className="save-state" aria-live="polite">{saveStatus}</span><button className="button small" type="button" onClick={() => downloadSession(session)}>Скачать JSON</button><button className="button small" type="button" onClick={() => { window.location.href = projectId ? `/projects/${encodeURIComponent(projectId)}` : "/"; }}>Закрыть сессию</button></div>
+            <div className="button-row"><span className="save-state" aria-live="polite">{saveStatus}</span><button className="button small" type="button" onClick={() => downloadSession(session)}>Скачать JSON</button><button className="button small" type="button" onClick={() => void navigateAfterSaving(projectId ? `/projects/${encodeURIComponent(projectId)}` : "/")}>Закрыть сессию</button></div>
           </div>
           <div className="tabs" role="tablist" aria-label="Quality-разметка">
             <button className={`tab ${view === "review" ? "active" : ""}`} type="button" onClick={() => setView("review")}>Проверка</button>
